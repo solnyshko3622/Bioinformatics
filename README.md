@@ -28,14 +28,14 @@
 ---
 
 ## Построение парного выравнивания
-	Я построила выравнивания с помощью https://www.bioinformatics.nl/emboss-explorer/ и попробовала 3 инструмента для каждого гена: Needle, Water, Stretcher.
-	1. [Выравнивание OPN1LW с помощью Needle](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1LW_needle.txt)
- 	2. [Выравнивание OPN1LW с помощью Water](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1LW_water.txt)
-  	3. [Выравнивание OPN1LW с помощью Stretcher](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1LW_%20stretcher.txt)
-   ---
-   	1. [Выравнивание OPN1MW с помощью Needle](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1MW_needle.txt)
-    	2. [Выравнивание OPN1MW с помощью Water](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1MW_water.txt)
-     	3. [Выравнивание OPN1MW с помощью Stretcher](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1MW_stretcher.txt)
+Я построила выравнивания с помощью https://www.bioinformatics.nl/emboss-explorer/ и попробовала 3 инструмента для каждого гена: Needle, Water, Stretcher.
+1. [Выравнивание OPN1LW с помощью Needle](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1LW_needle.txt)
+2. [Выравнивание OPN1LW с помощью Water](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1LW_water.txt)
+3. [Выравнивание OPN1LW с помощью Stretcher](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1LW_%20stretcher.txt)
+---
+1. [Выравнивание OPN1MW с помощью Needle](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1MW_needle.txt)
+2. [Выравнивание OPN1MW с помощью Water](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1MW_water.txt)
+3. [Выравнивание OPN1MW с помощью Stretcher](https://github.com/solnyshko3622/Bioinformatics/blob/task2/OPN1MW_stretcher.txt)
 ---
 
 ## Оценка и сравнение выравниваний
