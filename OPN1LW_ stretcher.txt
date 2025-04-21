@@ -1,0 +1,1858 @@
+########################################
+# Program: stretcher
+# Rundate: Mon 21 Apr 2025 11:53:09
+# Commandline: stretcher
+#    -auto
+#    -asequence /var/lib/emboss-explorer/output/784339/.asequence
+#    -bsequence /var/lib/emboss-explorer/output/784339/.bsequence
+#    -outfile outfile
+#    -aformat3 markx0
+# Align_format: markx0
+# Report_file: outfile
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 139171889-139186632
+# 2: 154144243-154159032
+# Matrix: EDNAFULL
+# Gap_penalty: 16
+# Extend_penalty: 4
+#
+# Length: 15151
+# Identity:   13868/15151 (91.5%)
+# Similarity: 13868/15151 (91.5%)
+# Gaps:         768/15151 ( 5.1%)
+# Score: 63620
+# 
+#
+#=======================================
+
+               10        20        30        40        50
+139171 CCTCAGGTGATGCGCCAGGGCTGGCTGCCGTCGGGGACAGGGCTTTCCAT
+                    :::::::: ::::::::::::::::::::::::::::
+154144 -------------GCCAGGGCCGGCTGCCGTCGGGGACAGGGCTTTCCAT
+                            10        20        30       
+
+               60        70        80        90       100
+139171 AGCCATGGCCCAGCAGTGGAGCCTCCAAAGGCTCGCAGGCCGCCATCCGC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 AGCCATGGCCCAGCAGTGGAGCCTCCAAAGGCTCGCAGGCCGCCATCCGC
+        40        50        60        70        80       
+
+              110       120       130       140       150
+139171 AGGACAGCTATGAGGACAGCACCCAGTCCAGCATCTTCACCTACACCAAC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 AGGACAGCTATGAGGACAGCACCCAGTCCAGCATCTTCACCTACACCAAC
+        90       100       110       120       130       
+
+              160       170       180       190       200
+139171 AGCAACTCCACCAGAGGTGAGCCAGCAGGCCCGTGGAGGCTGGGTGGCTG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 AGCAACTCCACCAGAGGTGAGCCAGCAGGCCCGTGGAGGCTGGGTGGCTG
+       140       150       160       170       180       
+
+              210       220       230       240       250
+139171 CACTGGGGGCCACCGGCCACCCACCTGCCCCGCCCAAGGGAATCTCTCTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CACTGGGGGCCACCGGCCACCCACCTGCCCCGCCCAAGGGAATCTCTCTT
+       190       200       210       220       230       
+
+              260       270       280       290       300
+139171 CTGCACGTCCCCACCAGCAGAGAAGGCTTTCTCCCATAGCTTTTCTGATG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CTGCACGTCCCCACCAGCAGAGAAGGCTTTCTCCCATAGCTTTTCTGATG
+       240       250       260       270       280       
+
+              310       320       330       340       350
+139171 ACACGAATTGGGGGGTCCTCTCCAAATCTTGAAGGACACCATAATATCGA
+       ::: ::::::::::::::::::::::::: ::::::::::::::::::::
+154144 ACATGAATTGGGGGGTCCTCTCCAAATCTAGAAGGACACCATAATATCGA
+       290       300       310       320       330       
+
+              360       370        380       390         
+139171 ATATGCATTCTCAAGCCACACAG-CTTCCCAGCCCCTTTGAGAATCCGTG
+       ::::::::::::::::::::::: :::::::::::::::::::::::: :
+154144 ATATGCATTCTCAAGCCACACAGGCTTCCCAGCCCCTTTGAGAATCCGAG
+       340       350       360       370       380       
+
+     400       410       420       430       440         
+139171 GCCGGGGAAGAGTTTATGTGCTCTTTCTTTGTGGCCCGTAGATGAGTGTG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GCCGGGGAAGAGTTTATGTGCTCTTTCTTTGTGGCCCGTAGATGAGTGTG
+       390       400       410       420       430       
+
+     450       460       470       480       490         
+139171 TTCACTGCTAGCGAGTGACCTCTCATTCCACGGAGTCCCTCAGCTTCCTG
+       :::::::::::::: :::::::::::::::::::::::::::::::::::
+154144 TTCACTGCTAGCGAATGACCTCTCATTCCACGGAGTCCCTCAGCTTCCTG
+       440       450       460       470       480       
+
+     500       510       520       530       540         
+139171 GGGAAGAGCTGGGTCTGTCTTTACATTTGAAGCCAAAAGGAGGCAACGTA
+       :::::::::::::::::::::::::::::::::: :::::::::::: ::
+154144 GGGAAGAGCTGGGTCTGTCTTTACATTTGAAGCCGAAAGGAGGCAACATA
+       490       500       510       520       530       
+
+     550       560       570       580       590         
+139171 CTGACACACCCAAGGGAGGCGGGAGGGTGGGGAAGACAGCAGCAGAGGGC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CTGACACACCCAAGGGAGGCGGGAGGGTGGGGAAGACAGCAGCAGAGGGC
+       540       550       560       570       580       
+
+     600       610       620       630       640         
+139171 AAGAAACTTCTAGAACTTCAGGGTCGTCAAAGGCTGTAGCAGTCATTTTG
+       :::::::::::::::::::::::::: ::::: :::::::::::::::::
+154144 AAGAAACTTCTAGAACTTCAGGGTCGGCAAAGCCTGTAGCAGTCATTTTG
+       590       600       610       620       630       
+
+     650       660       670       680       690         
+139171 TCGAACTCCATGATGGGGCCACACGGCTTTTGGCTGCACACCTCTGGGGG
+       :: :::::::::::::::::::  ::::::::::::::::::::::::::
+154144 TCAAACTCCATGATGGGGCCACTTGGCTTTTGGCTGCACACCTCTGGGGG
+       640       650       660       670       680       
+
+     700       710       720       730       740         
+139171 AAGAGGCTGCATTGGCGCCCAGGGCCATCTTTCCATTTGGAGCAGTCCTG
+       ::::::::::::::::::::::::::::::::::::: ::::: ::::::
+154144 AAGAGGCTGCATTGGCGCCCAGGGCCATCTTTCCATTCGGAGCCGTCCTG
+       690       700       710       720       730       
+
+     750       760       770       780       790         
+139171 GGAGAGAGGGCTCAGGCCCAACAGAAAGCTGAAAGCTCTCATCAGGGCAG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GGAGAGAGGGCTCAGGCCCAACAGAAAGCTGAAAGCTCTCATCAGGGCAG
+       740       750       760       770       780       
+
+     800       810       820       830       840         
+139171 CCCGAGTTCTGCCATTGGGAGTTGCCCAATCCAAAAGTTTTGCACGCAGG
+       ::::::: :::::::::::::::::::::::: :::::::::::::::::
+154144 CCCGAGTCCTGCCATTGGGAGTTGCCCAATCCGAAAGTTTTGCACGCAGG
+       790       800       810       820       830       
+
+     850       860       870       880       890         
+139171 CCCTCAAAGAAGCTGAGGACGACAGTGACCGCCCCACTCCTGACCCTCTC
+       ::::::::::::::::::::  :::::::::::::::::::: :::::::
+154144 CCCTCAAAGAAGCTGAGGACACCAGTGACCGCCCCACTCCTGGCCCTCTC
+       840       850       860       870       880       
+
+     900       910       920       930       940         
+139171 CCCGGGTCCCTCCTCCAAACCAAATTCCTTTGGTGCCTTCAAGAACATCG
+       ::: ::::::::::::::::::::::::::::::::::::::::::::::
+154144 CCCAGGTCCCTCCTCCAAACCAAATTCCTTTGGTGCCTTCAAGAACATCG
+       890       900       910       920       930       
+
+     950       960       970       980       990         
+139171 TGCAGGCCGGGCGCAGTGGCTCACTCCTGTAATCCCAGTACTTTGGGAGG
+       :::::::::::: ::::::::::: ::::::::::::: :::::::::::
+154144 TGCAGGCCGGGCACAGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGG
+       940       950       960       970       980       
+
+    1000      1010      1020      1030      1040         
+139171 CAGAGGCGGGCAGATGACGAGGTCAACAGATAGAGACCATCCTGGCCAAC
+       :::::::::::::::::::::::::::::::::::: :::::::::::::
+154144 CAGAGGCGGGCAGATGACGAGGTCAACAGATAGAGATCATCCTGGCCAAC
+       990      1000      1010      1020      1030       
+
+    1050      1060      1070      1080      1090         
+139171 ATACTGAAACCCCATCTCTACTAAAAATGCAAAAATTAGCTGGGCTTGGT
+       ::::::::::: ::: ::::::::::::::::::::::::::::::::::
+154144 ATACTGAAACCTCATGTCTACTAAAAATGCAAAAATTAGCTGGGCTTGGT
+      1040      1050      1060      1070      1080       
+
+    1100      1110      1120      1130      1140         
+139171 GGCGCATGCCTGTAGTCTCAGCTACTCGGGAGGCCGAGGCAGGAGAATCG
+       ::::::::::::::::: ::::::::: :::::: :::::::::::::::
+154144 GGCGCATGCCTGTAGTCCCAGCTACTCAGGAGGCTGAGGCAGGAGAATCG
+      1090      1100      1110      1120      1130       
+
+    1150      1160      1170      1180      1190         
+139171 CTTGAACCCGGGAGGTGGAGGTTGCAGTGAGCCGAGATCACGCCACTATG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CTTGAACCCGGGAGGTGGAGGTTGCAGTGAGCCGAGATCACGCCACTATG
+      1140      1150      1160      1170      1180       
+
+    1200      1210      1220       1230      1240        
+139171 CTCCAGCCTGGCCACAGAGTGAGACTGT-GTCTCAAAACAAAACAAAACA
+       :::::::::::::::::::::::::: : :::::::::::::::::::::
+154144 CTCCAGCCTGGCCACAGAGTGAGACTCTTGTCTCAAAACAAAACAAAACA
+      1190      1200      1210      1220      1230       
+
+     1250         1260      1270      1280      1290     
+139171 AAAAACAACA---TCGTGCAGGCTGTGGTTTCCAGAAGCCACGCCAGCTC
+       ::::::::::   :::::::::::::::::::::::::::::::::::::
+154144 AAAAACAACAACATCGTGCAGGCTGTGGTTTCCAGAAGCCACGCCAGCTC
+      1240      1250      1260      1270      1280       
+
+        1300      1310      1320      1330      1340     
+139171 CTTGGTTGCCAATAAATATCCCGCTGTGGGGTGGCCAGGACCGAGTGCCA
+       :::: ::::::::::: :::::::::::::::::::::::::::::::::
+154144 CTTGATTGCCAATAAACATCCCGCTGTGGGGTGGCCAGGACCGAGTGCCA
+      1290      1300      1310      1320      1330       
+
+        1350      1360      1370      1380      1390     
+139171 ATTAGTGACAGAGTGCCCAGACCAAACCGGATGAGGATCTTGCAGTTGAC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 ATTAGTGACAGAGTGCCCAGACCAAACCGGATGAGGATCTTGCAGTTGAC
+      1340      1350      1360      1370      1380       
+
+        1400      1410      1420      1430       1440    
+139171 TTCAATATGACTGTGCCCAGAATTTCCTCGTTGGCAATA-CAACAGTCTC
+        :::: :::::::::::::::::::::: : :::::::  ::::::::::
+154144 CTCAACATGACTGTGCCCAGAATTTCCTTGGTGGCAATGTCAACAGTCTC
+      1390      1400      1410      1420      1430       
+
+         1450      1460      1470      1480      1490    
+139171 TTCCTAGATGCCCCCAGACTTCATCAATGCATGATGCTTCAATGCACTCT
+       ::::::::::::::::::::::::::::::::::::::::: ::::::::
+154144 TTCCTAGATGCCCCCAGACTTCATCAATGCATGATGCTTCAGTGCACTCT
+      1440      1450      1460      1470      1480       
+
+         1500      1510      1520       1530      1540   
+139171 TTTCAAATGTCGGGGTGGGTTTTTTTTCCC-CCACAAAACTTCAAGCATC
+       :::::::::::::::::::::::::::    :::::::::::::::::::
+154144 TTTCAAATGTCGGGGTGGGTTTTTTTTTTTTCCACAAAACTTCAAGCATC
+      1490      1500      1510      1520      1530       
+
+          1550      1560      1570      1580      1590   
+139171 TACTAAAGTAGAGGGAAGTGTGTAATGAACCCCAGGACCCATCACTCAGC
+       :::::::::::::::: : ::::::::::: :: : ::::::::::::::
+154144 TACTAAAGTAGAGGGAGGAGTGTAATGAACTCCGGTACCCATCACTCAGC
+      1540      1550      1560      1570      1580       
+
+          1600      1610      1620      1630      1640   
+139171 TTCCACGGTTTCATCTCATTTCATCTGTAACCCCTCCACTACCCTTTCTT
+       :::::::::::::::::::::::::::: :::::::::::::::::::::
+154144 TTCCACGGTTTCATCTCATTTCATCTGTGACCCCTCCACTACCCTTTCTT
+      1590      1600      1610      1620      1630       
+
+          1650      1660      1670      1680      1690   
+139171 CCTGATTCTTGGAAGCAAATCCAAGGCATCACACCCTTCCCTCTGTAAAT
+       ::::::::::::::::::::::::: ::::::::::::::::::::::::
+154144 CCTGATTCTTGGAAGCAAATCCAAGACATCACACCCTTCCCTCTGTAAAT
+      1640      1650      1660      1670      1680       
+
+          1700      1710      1720      1730      1740   
+139171 CTTTACTATGTTCCTCTAGGAGAAAACGGCTCTTCTCAATACATAACCAC
+       :::::::::::::::::::::::::: :::::::::::::::::::::::
+154144 CTTTACTATGTTCCTCTAGGAGAAAAGGGCTCTTCTCAATACATAACCAC
+      1690      1700      1710      1720      1730       
+
+          1750      1760      1770      1780      1790   
+139171 AAGTCATCATCACACCGACAAGTGTAACAATATTTCCTGAATAGCTTCAA
+       ::::::::::::::::::::::::::::: ::::::::::::::::::::
+154144 AAGTCATCATCACACCGACAAGTGTAACAGTATTTCCTGAATAGCTTCAA
+      1740      1750      1760      1770      1780       
+
+          1800      1810      1820      1830      1840   
+139171 ATATCCTACTAGTGTTCAAAAAATGTCATACGTATTTTCAGTTTGCTTGA
+       :::::::: ::::::::::::::::::::::::::::::::: :::::::
+154144 ATATCCTAGTAGTGTTCAAAAAATGTCATACGTATTTTCAGTCTGCTTGA
+      1790      1800      1810      1820      1830       
+
+          1850      1860      1870      1880      1890   
+139171 ATCAGGGCTCAAATAAGGTCCACACATTCAGATTGATTGATACGCCTTTT
+       :::::::::::::::::::::::::::::::::::: ::::: :::::::
+154144 ATCAGGGCTCAAATAAGGTCCACACATTCAGATTGACTGATATGCCTTTT
+      1840      1850      1860      1870      1880       
+
+          1900      1910      1920      1930      1940   
+139171 GACTACCTTTGAATCTAGAGGTTCTCTTTCTATCTCCCTGCAATTTATTT
+       :::::::::::::::::::::::: :::::::::::::::::::::::::
+154144 GACTACCTTTGAATCTAGAGGTTCCCTTTCTATCTCCCTGCAATTTATTT
+      1890      1900      1910      1920      1930       
+
+          1950      1960      1970      1980      1990   
+139171 GTGGAAGAAAGCAAGTCGTTCACGACGTAGCTTAACAGGCCCCTCTGACG
+       ::::::: :::::::::::::: :::::::: ::::::::::::::::::
+154144 GTGGAAGCAAGCAAGTCGTTCATGACGTAGCCTAACAGGCCCCTCTGACG
+      1940      1950      1960      1970      1980       
+
+           2000      2010      2020      2030      2040  
+139171 TTGTTC-TTATGATTTTTCTGTAAATCGGTAGTTGATCTGAGGATCTGAC
+       :::::: ::::::::::::::::::: ::::::::::::::::::::: :
+154144 TTGTTCATTATGATTTTTCTGTAAATTGGTAGTTGATCTGAGGATCTGGC
+      1990      2000      2010      2020      2030       
+
+           2050      2060      2070      2080      2090  
+139171 CAGAGGCAGGTTGGATTTGTTGGTGTGTTTTGGCAAGGAGAGTGTCTCTT
+       :::::: :::::::::::::::::::::::::::::::::::::::::::
+154144 CAGAGGTAGGTTGGATTTGTTGGTGTGTTTTGGCAAGGAGAGTGTCTCTT
+      2040      2050      2060      2070      2080       
+
+           2100      2110      2120      2130      2140  
+139171 TCCTGGGGTGTTGGCAGCTACCGAAACTCAATGCCCAGACCAATTAAACC
+       : ::::::::::::::::::: ::::::::::::::::::::::::::::
+154144 TTCTGGGGTGTTGGCAGCTACTGAAACTCAATGCCCAGACCAATTAAACC
+      2090      2100      2110      2120      2130       
+
+           2150      2160      2170      2180      2190  
+139171 ACTGGGGATGGAGAACGACGGCATTCGGACACCTTACCCTGCCTTCACCT
+       :::::::::::: :: ::::::::::::::::::::::::::::::::::
+154144 ACTGGGGATGGAAAATGACGGCATTCGGACACCTTACCCTGCCTTCACCT
+      2140      2150      2160      2170      2180       
+
+           2200      2210      2220      2230      2240  
+139171 ATTGGTGACCAAAACCGTAACATCTTCACAGGTCTTCTTACCCTGAGGGT
+       :::::::::::::::: :::::::::::::::::::::::::::::::::
+154144 ATTGGTGACCAAAACCTTAACATCTTCACAGGTCTTCTTACCCTGAGGGT
+      2190      2200      2210      2220      2230       
+
+           2250      2260      2270      2280      2290  
+139171 ATATGCCACTAGGTTGCGTAGTAAACCAGTGTGTTTCAAGTGCCTTAGAA
+       :::::::::::::::: :::::::::: ::::::::: ::: ::::::::
+154144 ATATGCCACTAGGTTGTGTAGTAAACCGGTGTGTTTCCAGTCCCTTAGAA
+      2240      2250      2260      2270      2280       
+
+           2300      2310      2320      2330      2340  
+139171 TAGTCCCTCTCTAAGTGATATGCCACTCAAGTGGATATGCATTTAGCTTC
+       ::::::::::::::::::::::::::::: ::::::::::::::::::::
+154144 TAGTCCCTCTCTAAGTGATATGCCACTCA-GTGGATATGCATTTAGCTTC
+      2290      2300      2310       2320      2330      
+
+           2350      2360      2370      2380      2390  
+139171 ATTTCTTTTGTTGCTGATTTTCAGAGATTGTTCTGTAAATTTAAATTTTT
+       :::::::::::::::::::::::::::::: :::::::::::::: ::::
+154144 ATTTCTTTTGTTGCTGATTTTCAGAGATTGCTCTGTAAATTTAAACTTTT
+       2340      2350      2360      2370      2380      
+
+           2400      2410      2420      2430      2440  
+139171 ATTTTATTTTATTTTACTTTTTCGAGACAGTCTTACTCTGTCACCCAGGC
+       :::::: ::::::::: ::::::::::::::::::::::::: :::::::
+154144 ATTTTACTTTATTTTATTTTTTCGAGACAGTCTTACTCTGTCGCCCAGGC
+       2390      2400      2410      2420      2430      
+
+           2450      2460      2470      2480      2490  
+139171 TGGAGTGCAGTGGCACGATCTCAGCTCACTGCAACCTCCGCCTCCTAGGT
+       :::::::::::::: :::::::::::::::::::: :::::::::: :::
+154144 TGGAGTGCAGTGGCGCGATCTCAGCTCACTGCAACTTCCGCCTCCTCGGT
+       2440      2450      2460      2470      2480      
+
+           2500      2510      2520      2530      2540  
+139171 TCAAGCGATTCTTCTGCCTCAGCCTCCCGAGGAGCTGGGACTACAGGTGC
+       :: ::::::::: :::::::::::::::::::::::::::::::::::::
+154144 TCGAGCGATTCTCCTGCCTCAGCCTCCCGAGGAGCTGGGACTACAGGTGC
+       2490      2500      2510      2520      2530      
+
+           2550      2560      2570      2580      2590  
+139171 GAGCCACCACGCCCAGCTAATTTTTTTTATTTTTAGTAGAGATGGGGTTT
+         ::::::::::::::::::::::::::::::::::::::::  ::::::
+154144 CCGCCACCACGCCCAGCTAATTTTTTTTATTTTTAGTAGAGACAGGGTTT
+       2540      2550      2560      2570      2580      
+
+           2600      2610      2620      2630      2640  
+139171 CACCATGTTGGCCAGGCTGGTCTCGAACTGCTGACCTCAAGTCATCTGCC
+       :::::::::::::::::::::::: :::::::::::::::::: :: :::
+154144 CACCATGTTGGCCAGGCTGGTCTCCAACTGCTGACCTCAAGTCGTCCGCC
+       2590      2600      2610      2620      2630      
+
+           2650      2660      2670      2680      2690  
+139171 GACCTCGGCTTCCCAAAGTGCTGGGATTACAGGTGTGAGCCACCGCCCCC
+        :::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CACCTCGGCTTCCCAAAGTGCTGGGATTACAGGTGTGAGCCACCGCCCCC
+       2640      2650      2660      2670      2680      
+
+           2700      2710      2720      2730      2740  
+139171 GGCCACTTAAATTTTGTTTTATAATTATGTCATAAAACAGTTAAAAGTTT
+       :::::::::::::::::::::::::::::: ::::::::::::::::: :
+154144 GGCCACTTAAATTTTGTTTTATAATTATGTAATAAAACAGTTAAAAGTCT
+       2690      2700      2710      2720      2730      
+
+           2750      2760      2770      2780      2790  
+139171 CCAATTAAAATCTAGAAAAGAAGGTGTATTTGAAGAAGTCTGGCTTCTCT
+       : ::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CAAATTAAAATCTAGAAAAGAAGGTGTATTTGAAGAAGTCTGGCTTCTCT
+       2740      2750      2760      2770      2780      
+
+           2800      2810      2820      2830      2840  
+139171 GCGCCACCACCCCCCGCCCCTTCCCTATCTACCTGTATTTCCTTGAATCA
+       :::::::::::  :::::::::::::: :: :::::::::::: ::::::
+154144 GCGCCACCACCGACCGCCCCTTCCCTACCTGCCTGTATTTCCTCGAATCA
+       2790      2800      2810      2820      2830      
+
+           2850      2860      2870      2880      2890  
+139171 CTTTGCCTGGGAGTTGACTTTGATTCTCTTGCTCGTTGCTTCATGAAAT-
+       :::::::::::::::::::::::::::::::::: :::::::::::::: 
+154144 CTTTGCCTGGGAGTTGACTTTGATTCTCTTGCTCATTGCTTCATGAAATT
+       2840      2850      2860      2870      2880      
+
+            2900      2910      2920      2930      2940 
+139171 CAGTTCCAGAACTTTCAGGAGGAAGGGGTAGGCCATGACACCAGCCCCAG
+       :::::::::::::::::::::: :::::::::::::::::::::: : ::
+154144 CAGTTCCAGAACTTTCAGGAGGGAGGGGTAGGCCATGACACCAGCTCTAG
+       2890      2900      2910      2920      2930      
+
+            2950      2960      2970      2980      2990 
+139171 TTACACTGGTGGCAGCTCCTGTCCCCTCCCCCACTGCTGCTGGGACCTGT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TTACACTGGTGGCAGCTCCTGTCCCCTCCCCCACTGCTGCTGGGACCTGT
+       2940      2950      2960      2970      2980      
+
+            3000      3010      3020      3030      3040 
+139171 TCTCTCCTTTGCCCCCTTGTCCCTGCACTGCCCAATTTGGACCGCAAGGG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TCTCTCCTTTGCCCCCTTGTCCCTGCACTGCCCAATTTGGACCGCAAGGG
+       2990      3000      3010      3020      3030      
+
+            3050      3060      3070      3080      3090 
+139171 TTGCCAGGGAAGGGCACGAAGGGCACTGGCTGCCTTGTTTTCAGAGGTCG
+       :::::::::::::::         ::::::::::::::::::::::::::
+154144 TTGCCAGGGAAGGGC---------ACTGGCTGCCTTGTTTTCAGAGGTCG
+       3040      3050               3060      3070       
+
+            3100      3110      3120      3130      3140 
+139171 TAGCACCTAGGTTGCTCCAGCACCTTGCACTTGCCTGCAGGCCAGAGTGT
+       :::::::::: :::::::::: ::::::::::::::::::::::::::::
+154144 TAGCACCTAGATTGCTCCAGCCCCTTGCACTTGCCTGCAGGCCAGAGTGT
+      3080      3090      3100      3110      3120       
+
+            3150      3160      3170      3180      3190 
+139171 CCCAAACCCTCCCAGTCTCAGCGGCTCTTCCCCAGTTCACCCGAGGTACT
+       :::::::::::::::::::::: ::::::::::::::::::: :::::::
+154144 CCCAAACCCTCCCAGTCTCAGCTGCTCTTCCCCAGTTCACCCAAGGTACT
+      3130      3140      3150      3160      3170       
+
+            3200      3210      3220      3230      3240 
+139171 TCCCAGGGAAGAGCTGCCGACAGTTTGGGGGTTCTCTGTTCTTAGGTCCA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TCCCAGGGAAGAGCTGCCGACAGTTTGGGGGTTCTCTGTTCTTAGGTCCA
+      3180      3190      3200      3210      3220       
+
+            3250      3260      3270      3280      3290 
+139171 TCAGCAACCCCATTGCTCCCCTCTGCTTCCTTCTGCACGGAGACTGATGC
+       ::::::::::::::::::::::::::::::::::::::::::::::: ::
+154144 TCAGCAACCCCATTGCTCCCCTCTGCTTCCTTCTGCACGGAGACTGACGC
+      3230      3240      3250      3260      3270       
+
+            3300      3310      3320      3330      3340 
+139171 CATGCAGGTCTTCAATTGTCAGTGATCTGTCCCTACTGCTCATACTGGGG
+       ::::::::::::::::::::: :: ::::::::: :::::::::::::::
+154144 CATGCAGGTCTTCAATTGTCAATGGTCTGTCCCTGCTGCTCATACTGGGG
+      3280      3290      3300      3310      3320       
+
+            3350      3360      3370      3380      3390 
+139171 GTTCCTCGGGAGCCAGTGCCAAGTATCGGGATTGCAGACATTGCCTGTGG
+       :::::: :::::::::::::: ::::::::::::::::::::: ::::::
+154144 GTTCCTGGGGAGCCAGTGCCAGGTATCGGGATTGCAGACATTGTCTGTGG
+      3330      3340      3350      3360      3370       
+
+            3400      3410      3420      3430      3440 
+139171 GTTTCCGGAAGCTCCTTGTGTTAGGAACAAATGGGGCCCGTGCACAGAGG
+       :::::: :::::::::::::::::::::: ::::::::::::::::::::
+154144 GTTTCCAGAAGCTCCTTGTGTTAGGAACATATGGGGCCCGTGCACAGAGG
+      3380      3390      3400      3410      3420       
+
+            3450      3460      3470      3480      3490 
+139171 GCAGCAGAGGTCTTGTGGGATCCAGCTGTGCTAGGGGTGAGATTTATCTG
+       :::::::::: :::::::::::::::::::::::::::::::::::::::
+154144 GCAGCAGAGGCCTTGTGGGATCCAGCTGTGCTAGGGGTGAGATTTATCTG
+      3430      3440      3450      3460      3470       
+
+            3500      3510      3520      3530      3540 
+139171 TCTCTCCTGGCCGTAGCCAGGAAATCCCCATTTTTCTTAAGCTAGCTTGA
+       :::::::::::: :::::::::::::::::::::::::::::::::::::
+154144 TCTCTCCTGGCCATAGCCAGGAAATCCCCATTTTTCTTAAGCTAGCTTGA
+      3480      3490      3500      3510      3520       
+
+            3550      3560      3570      3580      3590 
+139171 GCTGGGCTTTTCTAACACACAGCTAAAGAATCTCTTGATAAATCTTGGGA
+       : :::::::::::::::::::::::::::::::::::::::: :::::::
+154144 GTTGGGCTTTTCTAACACACAGCTAAAGAATCTCTTGATAAACCTTGGGA
+      3530      3540      3550      3560      3570       
+
+            3600      3610      3620      3630      3640 
+139171 CTCTCCATGAGGCCTTATATGGCAGCAGGTCTGTGGCTTGCAATCCCTTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CTCTCCATGAGGCCTTATATGGCAGCAGGTCTGTGGCTTGCAATCCCTTC
+      3580      3590      3600      3610      3620       
+
+            3650      3660      3670      3680      3690 
+139171 AAGTAATCTGCCAAAAACAGTGTTATGACAAAGGTCTTTCCAACACAAAA
+       ::::::::::::::::::: ::::::::: :::::: :::::::::::::
+154144 AAGTAATCTGCCAAAAACAATGTTATGACGAAGGTCCTTCCAACACAAAA
+      3630      3640      3650      3660      3670       
+
+            3700      3710      3720      3730      3740 
+139171 GGTGTAGAGCCCTAGCAAACTCCTACAGAATAAAAAGGAGAAATAATTCG
+       :::::::::::::::::::::::::::::: :::::::::::::::::::
+154144 GGTGTAGAGCCCTAGCAAACTCCTACAGAAGAAAAAGGAGAAATAATTCG
+      3680      3690      3700      3710      3720       
+
+            3750      3760      3770      3780      3790 
+139171 TTTGTAGTCCCAGCTACTTGGGAGGCCAAGGTGGGAGGATCACTTGAAGT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TTTGTAGTCCCAGCTACTTGGGAGGCCAAGGTGGGAGGATCACTTGAAGT
+      3730      3740      3750      3760      3770       
+
+            3800      3810      3820      3830      3840 
+139171 CAGGAGTTCGAGACCAGCCTAGGCAACATAGCCAGACCCCATCTCTACAG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CAGGAGTTCGAGACCAGCCTAGGCAACATAGCCAGACCCCATCTCTACAG
+      3780      3790      3800      3810      3820       
+
+            3850       3860      3870       3880         
+139171 AAATAAAAAAA-TTGCCATTGTGGTAATGCACGGCT-GTAGTCCCAGATA
+       ::::::::::: :::::::::::::::::::::::: :::::::::::::
+154144 AAATAAAAAAAATTGCCATTGTGGTAATGCACGGCTTGTAGTCCCAGATA
+      3830      3840      3850      3860      3870       
+
+    3890      3900      3910      3920                   
+139171 CTCGACAGGTTGAGGCAGGAGGATCCCTTGAGCCCAGGAG----------
+       ::::: ::: ::::::::::::::: ::::::::::::::          
+154144 CTCGAGAGGCTGAGGCAGGAGGATCGCTTGAGCCCAGGAGGATCGCTTGA
+      3880      3890      3900      3910      3920       
+
+             3930      3940      3950      3960      3970
+139171 ---------TTCCACGTTGCAGTGAGTTATGATTGTGCCACTGTACCCCA
+                ::::::::::::::::: ::::::::::::::::::: :::
+154144 GCCCAGGAGTTCCACGTTGCAGTGAGCTATGATTGTGCCACTGTACTCCA
+      3930      3940      3950      3960      3970       
+
+             3980      3990      4000      4010      4020
+139171 GCCTGGGTGCCAGAGCCAGACTCTATCTCTATTTTTTGTTGTTGTTGTTG
+       ::::::::::::::::::: ::::::::::::::  ::::::::::::::
+154144 GCCTGGGTGCCAGAGCCAGGCTCTATCTCTATTTGGTGTTGTTGTTGTTG
+      3980      3990      4000      4010      4020       
+
+                4030      4040      4050      4060       
+139171 ---TTGTTGTTTTTGAGACGGAGTCTTGTTCTGTCACCCCGGCTGGAGTG
+          :::::::::::::::::::::::::::::::::::::::::::::::
+154144 CTGTTGTTGTTTTTGAGACGGAGTCTTGTTCTGTCACCCCGGCTGGAGTG
+      4030      4040      4050      4060      4070       
+
+      4070      4080      4090      4100      4110       
+139171 CAGTGGCGTGATCTCAGCTCACTGCAACCTCTGCTTCCTGGGTTCAAGTG
+       :::::::::::::::::::::: ::::::::::: :::::::::::::::
+154144 CAGTGGCGTGATCTCAGCTCACCGCAACCTCTGCCTCCTGGGTTCAAGTG
+      4080      4090      4100      4110      4120       
+
+      4120      4130      4140      4150      4160       
+139171 ATTCTCCCGCCTCAGCCTCCTGAGTAGCTGGGACTACAGGCGCCAGCCAC
+       ::::::::::::::::::::::::::::::::::::::::::::  ::::
+154144 ATTCTCCCGCCTCAGCCTCCTGAGTAGCTGGGACTACAGGCGCCCACCAC
+      4130      4140      4150      4160      4170       
+
+      4170      4180           4190      4200      4210  
+139171 CACACCTGGCTAATTTTTTTTT-----GTACTTTTAGTAGAGACGGGGTT
+       :: :::: ::::::::::::::     ::: :::::::::::::::::::
+154144 CATACCTAGCTAATTTTTTTTTCTTTTGTATTTTTAGTAGAGACGGGGTT
+      4180      4190      4200      4210      4220       
+
+           4220       4230      4240      4250      4260 
+139171 TCACCATGGCCAG-CTGGTTTTGAACTCCTGACCTCAAGTGATCCACCCC
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::
+154144 TCACCATGGCCAGGCTGGTTTTGAACTCCTGACCTCAAGTGATCCACCCC
+      4230      4240      4250      4260      4270       
+
+            4270      4280      4290      4300      4310 
+139171 TTCGGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCGCTCCCAGC
+        :::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CTCGGCCTCCCAAAGTGCTGGGATTACAGGCGTGAGCCACCGCTCCCAGC
+      4280      4290      4300      4310      4320       
+
+            4320      4330      4340      4350      4360 
+139171 CGACTGTATCTCTAAATATACAATAATCACAATCATAATCAGGACACCAG
+       :::::::::::::::::::: :::::::: :::::::::::::::: : :
+154144 CGACTGTATCTCTAAATATATAATAATCATAATCATAATCAGGACAGCCG
+      4330      4340      4350      4360      4370       
+
+            4370      4380      4390      4400      4410 
+139171 TCATATTGGATTAGGGCCCACCCTAATGACCTCATTTAAACTTGGTCATT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TCATATTGGATTAGGGCCCACCCTAATGACCTCATTTAAACTTGGTCATT
+      4380      4390      4400      4410      4420       
+
+            4420      4430      4440      4450      4460 
+139171 TCTGTAAAGACCCTATCTCTGAAAGTGGTCACATTCTGAGGTATTGGAGT
+       ::::::::::::::::::: ::::  ::::::::::::::::::::: ::
+154144 TCTGTAAAGACCCTATCTCCGAAAACGGTCACATTCTGAGGTATTGGGGT
+      4430      4440      4450      4460      4470       
+
+            4470      4480      4490       4500      4510
+139171 TAGGACTCCAACCTATGAATTTGGGTGGG-ACACAATTCAATTCATAACA
+       :::::::::::: :::::::::::::::: ::::::::::: ::::::::
+154144 TAGGACTCCAACATATGAATTTGGGTGGGGACACAATTCAACTCATAACA
+      4480      4490      4500      4510      4520       
+
+             4520      4530      4540      4550      4560
+139171 CATTCGTTGATGAATTTCCTCATTCATTTATTTTCTGAGCATCTAGTGTA
+       ::::: ::::: ::::::::::::::::::::::::::::::::: ::: 
+154144 CATTCATTGATTAATTTCCTCATTCATTTATTTTCTGAGCATCTATTGTG
+      4530      4540      4550      4560      4570       
+
+             4570      4580      4590      4600      4610
+139171 TGCTGGACACTCTGTGAGGATGAATGAGTCACAGTCTCTGGTGAGAAAGA
+       ::::::::::::::::::::::::::::::: ::::::::::::::::::
+154144 TGCTGGACACTCTGTGAGGATGAATGAGTCAAAGTCTCTGGTGAGAAAGA
+      4580      4590      4600      4610      4620       
+
+             4620      4630      4640      4650      4660
+139171 CAAGGCTTATATTTGTGTCTCAGTACTGGCTGCTATAAGAAATTACCAGG
+       :::: ::: :: ::::::::::::::::::::::::::::::::::::::
+154144 CAAGACTTGTACTTGTGTCTCAGTACTGGCTGCTATAAGAAATTACCAGG
+      4630      4640      4650      4660      4670       
+
+             4670                                        
+139171 CTGTGCTCGGG---------------------------------------
+       :::::  ::::                                       
+154144 CTGTGGCCGGGCGCAGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGG
+      4680      4690      4700      4710      4720       
+
+                                                         
+139171 --------------------------------------------------
+                                                         
+154144 CCGAGGCAGGCGGATCACGAGGTCAGGAGATTGAGATCATCCTAGCTAAC
+      4730      4740      4750      4760      4770       
+
+                                                         
+139171 --------------------------------------------------
+                                                         
+154144 ATGGTGAAGCCCCGTCTCTACTAAAAATAGAAAAAATTAGCCAGGCGTGG
+      4780      4790      4800      4810      4820       
+
+                                                         
+139171 --------------------------------------------------
+                                                         
+154144 TGGCGGGCGCCTGTAGTCCCAGCTACTCAGGAGGCTGAAGCGGGAGAATG
+      4830      4840      4850      4860      4870       
+
+                                                         
+139171 --------------------------------------------------
+                                                         
+154144 GCGTGAACCTGGGAGGCGGAGCTTGCAGTGAGCCGAGATCGTGCCACTGC
+      4880      4890      4900      4910      4920       
+
+                                                         
+139171 --------------------------------------------------
+                                                         
+154144 ACTCCAGCCTGGGTGACAGAGCAAGACTCCGTCTCAAAAAAAAAGAAAAA
+      4930      4940      4950      4960      4970       
+
+                                                   4680  
+139171 ---------------------------------------GGCTCAGGCCT
+                                              :::::: ::::
+154144 AAAAAGAAAAGAAAAATAAATTACCAGGCTGTGCATGGTGGCTCATGCCT
+      4980      4990      5000      5010      5020       
+
+           4690      4700      4710      4720      4730  
+139171 GCAATCACAGTACTTTGGGAGGACAAGGCAGGAGGATCTCTTGAGGTCAG
+       :::::: :::::::::::::::::::::::::::::::::::::::::::
+154144 GCAATCCCAGTACTTTGGGAGGACAAGGCAGGAGGATCTCTTGAGGTCAG
+      5030      5040      5050      5060      5070       
+
+           4740      4750      4760      4770      4780  
+139171 GAGTTTGAGAACAGCCTGGTCAACATGGTGAAACCCCATGTCTACTAAAA
+       :::::::::: :::::::::::::::::::::::::::::::::::::::
+154144 GAGTTTGAGACCAGCCTGGTCAACATGGTGAAACCCCATGTCTACTAAAA
+      5080      5090      5100      5110      5120       
+
+           4790      4800      4810      4820      4830  
+139171 GTACAAAAATTAGCTGGGTGTGGTGGTGGGTGCCTGTAAATCCCAGCTAC
+       : ::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GCACAAAAATTAGCTGGGTGTGGTGGTGGGTGCCTGTAAATCCCAGCTAC
+      5130      5140      5150      5160      5170       
+
+           4840      4850      4860      4870      4880  
+139171 TACTCGGGAGGCTGAGGCAGGAGAATCGCTTGAACCCAGGAGGCAGAGGT
+       ::::: :::::::::::::::::::: ::::::::::::::::: :::::
+154144 TACTCCGGAGGCTGAGGCAGGAGAATTGCTTGAACCCAGGAGGCGGAGGT
+      5180      5190      5200      5210      5220       
+
+           4890      4900      4910      4920      4930  
+139171 TGCAGTGACCCGAGATCACATCACTGCACTCCAGCCTGGGCGACAGAGCA
+       :::::::::::::::::::::::::::::::::::::::: :::::::::
+154144 TGCAGTGACCCGAGATCACATCACTGCACTCCAGCCTGGGTGACAGAGCA
+      5230      5240      5250      5260      5270       
+
+           4940      4950      4960      4970      4980  
+139171 AGACTTTGTCTCAAAAAAAAAAAAAAAAAAGAAAAGAAAAGAAAGGAAAA
+       :::::::::: ::::::::::::    :::::::::::: ::::::::::
+154144 AGACTTTGTCCCAAAAAAAAAAA----AAAGAAAAGAAA-GAAAGGAAAA
+      5280      5290      5300          5310       5320  
+
+           4990      5000      5010      5020      5030  
+139171 GAAAAGAACCAAAGAGAAATTACCATAGATTGGGTGGCTTTTAAATGACA
+       ::: :     :::::::::::::::::::::::::::::::::::::: :
+154144 GAATA-----AAAGAGAAATTACCATAGATTGGGTGGCTTTTAAATGATA
+                5330      5340      5350      5360       
+
+           5040      5050      5060      5070      5080  
+139171 AATTTATTTCTCACAGCTCTGGAGGCTGGAAGTCAGGGTGCTAGTGTGCT
+       :::::::::::::::::::::::::::::::::::::::::::: ::: :
+154144 AATTTATTTCTCACAGCTCTGGAGGCTGGAAGTCAGGGTGCTAGCGTGGT
+      5370      5380      5390      5400      5410       
+
+           5090      5100      5110      5120      5130  
+139171 GGGCTCTGGTGAGGACCCTCTTCCTGACTGAAGATTGCCAACAACTCATT
+       ::::::::: :::::::::::::::::::: :::::::::::::::::::
+154144 GGGCTCTGGCGAGGACCCTCTTCCTGACTGCAGATTGCCAACAACTCATT
+      5420      5430      5440      5450      5460       
+
+           5140      5150      5160      5170      5180  
+139171 CTATCCTCACATGGTAGAAAGAGAGCTAGAGAGCACTCTAGAGACTCTTT
+        ::::::::::::: :::::::::::::::::::::::::: ::::::::
+154144 GTATCCTCACATGGAAGAAAGAGAGCTAGAGAGCACTCTAGGGACTCTTT
+      5470      5480      5490      5500      5510       
+
+           5190      5200        5210      5220          
+139171 TTTTTTTTAAGTTTTAATTTAAAAAAA--TTTTTTTACATG---------
+       :: :: ::  ::::::::: :::::::  ::::::::::::         
+154144 TTCTTGTTT-GTTTTAATTAAAAAAAAATTTTTTTTACATGGGCATGCCA
+      5520       5530      5540      5550      5560      
+
+                 5230      5240      5250      5260      
+139171 -----CCCAGGTTGGATTTGAACTCCTGGGCTCAAGCAATCCTCCTGCCT
+            :::::::::::::::::::::::::::::::::: ::::: ::::
+154144 TGTTGCCCAGGTTGGATTTGAACTCCTGGGCTCAAGCAACCCTCCAGCCT
+       5570      5580      5590      5600      5610      
+
+       5270      5280      5290      5300      5310      
+139171 CAGCCTCCCAAAGTGCTGGGATTACAGGCATGAGCCACCATTCCCAGCTA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CAGCCTCCCAAAGTGCTGGGATTACAGGCATGAGCCACCATTCCCAGCTA
+       5620      5630      5640      5650      5660      
+
+       5320      5330      5340      5350      5360      
+139171 ATTTGGGCTGTTCCCAAAGGCTCAAGTGATCCTCCCACGTTGGCCTCCTG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 ATTTGGGCTGTTCCCAAAGGCTCAAGTGATCCTCCCACGTTGGCCTCCTG
+       5670      5680      5690      5700      5710      
+
+       5370      5380      5390      5400      5410      
+139171 AGTAGCTGGGGCTACAGGCGTGAGCCACCAGGCCCAGCTTCTAGGACCT-
+       :::::::::::::::::::::::::::::: :::::::::::::::::: 
+154144 AGTAGCTGGGGCTACAGGCGTGAGCCACCATGCCCAGCTTCTAGGACCTC
+       5720      5730      5740      5750      5760      
+
+         5420       5430      5440      5450      5460   
+139171 -TTTATAAGA-CACTAATTCCATTCATGAGGGCCGCACTTGCTCTGCACA
+        ::::::::  ::::::: ::::::::::::::: ::::  :::::::::
+154144 TTTTATAAGGGCACTAATCCCATTCATGAGGGCCCCACTCACTCTGCACA
+       5770      5780      5790      5800      5810      
+
+          5470      5480      5490      5500      5510   
+139171 CATGACCTAAAAGACCTGCCAAAGGCCCCACCTCCTAATACCATCACCTT
+       ::::::::::: ::::::::::::::::::::::::::::::::::::::
+154144 CATGACCTAAATGACCTGCCAAAGGCCCCACCTCCTAATACCATCACCTT
+       5820      5830      5840      5850      5860      
+
+          5520      5530      5540      5550      5560   
+139171 GGGGGTTGGGATTTCAACACAGGAATTTATGGGGGGCACGTACATTCAGA
+       :::::::::::::::::::::: :::::::::::::::::::::::::::
+154144 GGGGGTTGGGATTTCAACACAGAAATTTATGGGGGGCACGTACATTCAGA
+       5870      5880      5890      5900      5910      
+
+          5570      5580      5590      5600      5610   
+139171 TCATCATGAGCAGTAACTCCTATATGTGACAGAAGGTGACAGAGGTGGGT
+       ::::::::: ::::::::::::: ::::::::::::::::::::::::::
+154144 TCATCATGAACAGTAACTCCTATGTGTGACAGAAGGTGACAGAGGTGGGT
+       5920      5930      5940      5950      5960      
+
+          5620      5630      5640      5650      5660   
+139171 AGTGGTCTTCCCCTCAAGGGGGTGAGTTGCCACTAGCTGGGGAATCTGGA
+       :::::::::::::::::::::::::::::::::::::::::::::::   
+154144 AGTGGTCTTCCCCTCAAGGGGGTGAGTTGCCACTAGCTGGGGAATCT---
+       5970      5980      5990      6000      6010      
+
+          5670      5680      5690      5700      5710   
+139171 AAGGCTTCTGGAAGGCAAATGCATATGAGCTGGGCTTTACACGAGGAAAG
+             ::::::::::::::::::::::::::::::::::: :::: :::
+154144 ------TCTGGAAGGCAAATGCATATGAGCTGGGCTTTACAGGAGGCAAG
+                6020      6030      6040      6050       
+
+          5720      5730      5740        5750      5760 
+139171 CGCTTGTCTACGGAAGGGCAGAGGACTC--GGAGGTAGGAGGTGGGGCTG
+       :: :: :::: ::::::::::::::::   ::::::::::::::::::::
+154144 CGTTTCTCTATGGAAGGGCAGAGGACTGTGGGAGGTAGGAGGTGGGGCTG
+      6060      6070      6080      6090      6100       
+
+            5770      5780      5790      5800      5810 
+139171 GGGCAAAGGGAAGAGGGGAGCAGGGAAGTGGGGTGACTGCACACTGGGAG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GGGCAAAGGGAAGAGGGGAGCAGGGAAGTGGGGTGACTGCACACTGGGAG
+      6110      6120      6130      6140      6150       
+
+            5820      5830      5840      5850      5860 
+139171 TGGGGAATCAGATGAAGCAGACGATGAGGAGTTCTGTTAAGTTCAAGGTG
+       :::::::::::::: :: ::::::::::::::::::::::::::::: ::
+154144 TGGGGAATCAGATGGAGGAGACGATGAGGAGTTCTGTTAAGTTCAAGATG
+      6160      6170      6180      6190      6200       
+
+            5870      5880      5890      5900      5910 
+139171 CCAGTGCCAGTGACCAGCAGGCGATGGTCTCTGGCTTGAGGGACAGGATG
+       :::::::::::::::::: :::::::::::::::::::::::::::::::
+154144 CCAGTGCCAGTGACCAGCGGGCGATGGTCTCTGGCTTGAGGGACAGGATG
+      6210      6220      6230      6240      6250       
+
+            5920      5930      5940      5950      5960 
+139171 GAGAGGAGACTGTCTGAGGATGGACAAAGCTGGAGGGAAAGAGCCAACTG
+       ::: :::::::::::::::::::::::::::::::::::: :::::: ::
+154144 GAGGGGAGACTGTCTGAGGATGGACAAAGCTGGAGGGAAACAGCCAATTG
+      6260      6270      6280      6290      6300       
+
+            5970      5980      5990      6000      6010 
+139171 CAAAGGCAGGAGGGCGGGAGGGGGAGGGGAGAGGTGGGATCAGCACTGGT
+       ::::::::::::::::: ::::::::::::::::::::::::::::::::
+154144 CAAAGGCAGGAGGGCGGAAGGGGGAGGGGAGAGGTGGGATCAGCACTGGT
+      6310      6320      6330      6340      6350       
+
+            6020      6030      6040      6050      6060 
+139171 ATAGACAGGTGGTGCTGCAGCCCAGCTCCTCTCTCTCCTCTGCCTCCTGC
+       ::::::::: ::::::::::::::::::::::::::::::::::::::::
+154144 ATAGACAGGCGGTGCTGCAGCCCAGCTCCTCTCTCTCCTCTGCCTCCTGC
+      6360      6370      6380      6390      6400       
+
+            6070      6080      6090      6100      6110 
+139171 CCTCAGGCCCCTTCGAAGGCCCGAATTACCACATCGCTCCCAGATGGGTG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CCTCAGGCCCCTTCGAAGGCCCGAATTACCACATCGCTCCCAGATGGGTG
+      6410      6420      6430      6440      6450       
+
+            6120      6130      6140      6150      6160 
+139171 TACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACCGCATCCGTCTT
+       :::::::::::::::::::::::::::::::::::::: :::::::::::
+154144 TACCACCTCACCAGTGTCTGGATGATCTTTGTGGTCACTGCATCCGTCTT
+      6460      6470      6480      6490      6500       
+
+            6170      6180      6190      6200      6210 
+139171 CACAAATGGGCTTGTGCTGGCGGCCACCATGAAGTTCAAGAAGCTGCGCC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CACAAATGGGCTTGTGCTGGCGGCCACCATGAAGTTCAAGAAGCTGCGCC
+      6510      6520      6530      6540      6550       
+
+            6220      6230      6240      6250      6260 
+139171 ACCCGCTGAACTGGATCCTGGTGAACCTGGCGGTCGCTGACCTAGCAGAG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 ACCCGCTGAACTGGATCCTGGTGAACCTGGCGGTCGCTGACCTAGCAGAG
+      6560      6570      6580      6590      6600       
+
+            6270      6280      6290      6300      6310 
+139171 ACCGTCATCGCCAGCACTATTAGCGTTGTCAACCAGGTCTCTGGCTACTT
+       :::::::::::::::::::: ::: :::: ::::::::::::::::::::
+154144 ACCGTCATCGCCAGCACTATCAGCATTGTGAACCAGGTCTCTGGCTACTT
+      6610      6620      6630      6640      6650       
+
+            6320      6330      6340      6350      6360 
+139171 CGTGCTGGGCCACCCTATGTGTGTCCTGGAGGGCTACACCGTCTCCCTGT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CGTGCTGGGCCACCCTATGTGTGTCCTGGAGGGCTACACCGTCTCCCTGT
+      6660      6670      6680      6690      6700       
+
+            6370      6380      6390      6400      6410 
+139171 GTGGTAAGCCAGTCGGGGCCCAGGCTCAGCGGAAACCACTCATTCACCCT
+       ::::::::::::::::::::::::::: ::::::::::::::::::::::
+154144 GTGGTAAGCCAGTCGGGGCCCAGGCTCGGCGGAAACCACTCATTCACCCT
+      6710      6720      6730      6740      6750       
+
+            6420      6430      6440      6450      6460 
+139171 GCAAGCCCCTCCGGCCACCTCATGATGACCTGGGCCCAGCTGCTCCTGTA
+       :::::: ::::: ::::::::::::::: : :::::::::::::::::::
+154144 GCAAGCTCCTCCAGCCACCTCATGATGATCGGGGCCCAGCTGCTCCTGTA
+      6760      6770      6780      6790      6800       
+
+            6470      6480      6490      6500      6510 
+139171 GGTCTGTCTCCCTCCACATCTGTGCCTCACATCCATATACTGACGGGTTC
+       :: :::::::::::: :::::: :::::::::::::::::::: ::::::
+154144 GGCCTGTCTCCCTCCCCATCTGCGCCTCACATCCATATACTGAAGGGTTC
+      6810      6820      6830      6840      6850       
+
+            6520      6530      6540      6550      6560 
+139171 TGGAGGCTTCCATCTGAACACTCACATTAAATTCAGCTCCCTTGAGTCAA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TGGAGGCTTCCATCTGAACACTCACATTAAATTCAGCTCCCTTGAGTCAA
+      6860      6870      6880      6890      6900       
+
+            6570      6580      6590      6600      6610 
+139171 ACATACCCTGAGTTCCTACTATTGAGTCAGGCTCTGCCCGGGGACAGCCA
+       :::::::::::::::::::: :::::::::::::::::::::::::::::
+154144 ACATACCCTGAGTTCCTACTCTTGAGTCAGGCTCTGCCCGGGGACAGCCA
+      6910      6920      6930      6940      6950       
+
+            6620      6630      6640      6650      6660 
+139171 GTTTGGAGCTGTGGGGCTGGTGTGGGAGGAGACAGATACAGAGCTAGACG
+       ::::::::::::::::::::::::::::::::::::::::::::::::: 
+154144 GTTTGGAGCTGTGGGGCTGGTGTGGGAGGAGACAGATACAGAGCTAGACA
+      6960      6970      6980      6990      7000       
+
+            6670      6680      6690      6700      6710 
+139171 ACCCCAGAACGGTAGGGGGGTGGAGACTCTGGGCACCCTGGACAGAACTC
+       :::::::::: ::::::::: :: ::::::::::::::::::::::::::
+154144 ACCCCAGAACAGTAGGGGGGCGGGGACTCTGGGCACCCTGGACAGAACTC
+      7010      7020      7030      7040      7050       
+
+            6720      6730      6740      6750      6760 
+139171 CCCTGCAATTAGGGATGCCTGCTCTTTCAGCTCACCAGCATCCTCTTTTC
+       ::::::::::::::::::::::::::::::::: ::::::::  ::::::
+154144 CCCTGCAATTAGGGATGCCTGCTCTTTCAGCTCGCCAGCATCTGCTTTTC
+      7060      7070      7080      7090      7100       
+
+            6770      6780      6790      6800      6810 
+139171 CCGGAGGAGACACAATTCCCAGATCCTCTCCCGATCCCCATCACTAATAT
+       :::::::::::::::::::::::::::::::: :::::::::::::::::
+154144 CCGGAGGAGACACAATTCCCAGATCCTCTCCCCATCCCCATCACTAATAT
+      7110      7120      7130      7140      7150       
+
+            6820      6830      6840      6850      6860 
+139171 CTCTGTGGGCCACTATTCCGCTCAGGTCAGGAGACAGTGGCCGAGAGGTG
+       ::::::::::::::::::::::::::::::::::::::::::::::::: 
+154144 CTCTGTGGGCCACTATTCCGCTCAGGTCAGGAGACAGTGGCCGAGAGGTA
+      7160      7170      7180      7190      7200       
+
+            6870      6880      6890      6900      6910 
+139171 CCAGTGTGCCAGGCTCTGTGCTAAGGAGGGGGCCCTATACCCAGATGGCG
+       : :: :::::::::::::::::::::::::::::::::: ::::: ::: 
+154144 CTAGCGTGCCAGGCTCTGTGCTAAGGAGGGGGCCCTATAGCCAGACGGCA
+      7210      7220      7230      7240      7250       
+
+            6920      6930      6940      6950      6960 
+139171 ACCACACAGTACCATCATCAGTCCTCTCAGACAAGAAGGGGCCTGGGGCA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 ACCACACAGTACCATCATCAGTCCTCTCAGACAAGAAGGGGCCTGGGGCA
+      7260      7270      7280      7290      7300       
+
+            6970      6980      6990      7000      7010 
+139171 GGTGGTGGAGGAGCGGCTGGGAGCAGTTTGTGGTTCGAGTGGGTAGAGTA
+       :::::::::::::::::::::::::::::::::::::::::: :::::::
+154144 GGTGGTGGAGGAGCGGCTGGGAGCAGTTTGTGGTTCGAGTGGATAGAGTA
+      7310      7320      7330      7340      7350       
+
+            7020      7030      7040      7050      7060 
+139171 CCACCAAGCAGCCGTGGCTGGCGGACACGAGGTGGGCAGGCCCAGGTCTC
+       ::::::::::::::::::::  ::::::::::::::::::::::::::::
+154144 CCACCAAGCAGCCGTGGCTGCTGGACACGAGGTGGGCAGGCCCAGGTCTC
+      7360      7370      7380      7390      7400       
+
+            7070      7080      7090      7100      7110 
+139171 AGAGGCCTCAGAGGTCACGCCCAGGAGCTGGGACTTTATTTCAGGAGGGG
+       :::::::::::: :::: ::::::::::::::::::: :::::::::: :
+154144 AGAGGCCTCAGACGTCATGCCCAGGAGCTGGGACTTTCTTTCAGGAGGAG
+      7410      7420      7430      7440      7450       
+
+            7120      7130      7140      7150      7160 
+139171 GAGACCCCACATCCAGCAGCAGCAGCTCCTGTTCTTGCCTCCCCACAACT
+       ::::::::::::::::::::::::::::::: :::::::::::::: :::
+154144 GAGACCCCACATCCAGCAGCAGCAGCTCCTGCTCTTGCCTCCCCACCACT
+      7460      7470      7480      7490      7500       
+
+            7170      7180      7190      7200      7210 
+139171 CTTAGCAGCCTCCCCAACCCCACCCCCTGTCAACTGCCTCAAATTGTACC
+       ::::::::::::::::::::::::::  :: :::::::::::::::::::
+154144 CTTAGCAGCCTCCCCAACCCCACCCC--GTTAACTGCCTCAAATTGTACC
+      7510      7520      7530        7540      7550     
+
+            7220      7230      7240      7250      7260 
+139171 CACGATGGCCCAGACCAGAGTGGGTGCTTGTCCAAGTCCTGGCACTACCC
+       :::::::::::::::::::: :::::::::::::::::: ::::::::::
+154144 CACGATGGCCCAGACCAGAGAGGGTGCTTGTCCAAGTCCCGGCACTACCC
+        7560      7570      7580      7590      7600     
+
+            7270      7280      7290      7300      7310 
+139171 CGACAGTCTAGAAGGGGAGCCAAGGGAAGGTCAGGCAGAGAAGGTCCGTC
+       ::: ::: ::::::::::::::::::::::::::::::::::::::: ::
+154144 CGATAGTGTAGAAGGGGAGCCAAGGGAAGGTCAGGCAGAGAAGGTCCATC
+        7610      7620      7630      7640      7650     
+
+            7320      7330      7340      7350      7360 
+139171 CCCAGGTCCAAGTGCTCTCTGCAGCAGGCATGGCCTCGATGGTCACACGG
+       ::::::::: :::::::::::::::::::::::::::: :::::::::: 
+154144 CCCAGGTCCGAGTGCTCTCTGCAGCAGGCATGGCCTCGGTGGTCACACGA
+        7660      7670      7680      7690      7700     
+
+            7370       7380      7390      7400      7410
+139171 CCCTTCCCGAGTGCCCCC-TGCATCTCCGCCCACGGCTGTCTCCGTTTCT
+       :::::::::::::::::: :::::::::::::::: ::::::::::::::
+154144 CCCTTCCCGAGTGCCCCCCTGCATCTCCGCCCACGTCTGTCTCCGTTTCT
+        7710      7720      7730      7740      7750     
+
+             7420      7430      7440      7450      7460
+139171 GCCATGGTCTCCCGCTCACCCTTGCCTCTGCTCATGGTCTGTTCTTGGGT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GCCATGGTCTCCCGCTCACCCTTGCCTCTGCTCATGGTCTGTTCTTGGGT
+        7760      7770      7780      7790      7800     
+
+             7470      7480      7490      7500      7510
+139171 CAGTCAGGTGCCAAGCAGCCGGCACTTCCCCACCAGTTTTGGTCCACAGA
+       :::::::::::::::::::: :::::::::::::: ::::::::::: ::
+154144 CAGTCAGGTGCCAAGCAGCCAGCACTTCCCCACCACTTTTGGTCCACGGA
+        7810      7820      7830      7840      7850     
+
+             7520      7530      7540      7550      7560
+139171 TGCCCTTGGCCATGTGGGAAGCCTGTGGACCCCATCTTAGAGGAATAGCT
+       ::::::::::::: ::::::::::::::::::::::: ::  ::::   :
+154144 TGCCCTTGGCCATCTGGGAAGCCTGTGGACCCCATCTCAGGAGAATTTTT
+        7860      7870      7880      7890      7900     
+
+             7570      7580      7590      7600      7610
+139171 GCAAACGCATAAAATGAGACCCATAGGATTACGAAGGCAGCAAATTATAT
+       :::::::::::::::::::::::::::::::: :::::::::::::::: 
+154144 GCAAACGCATAAAATGAGACCCATAGGATTACAAAGGCAGCAAATTATAC
+        7910      7920      7930      7940      7950     
+
+             7620      7630      7640      7650      7660
+139171 TGAAATACAGTTATCAAAGTATTAAACATTCATCAGTAACATAGTCTTTA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TGAAATACAGTTATCAAAGTATTAAACATTCATCAGTAACATAGTCTTTA
+        7960      7970      7980      7990      8000     
+
+             7670      7680      7690      7700      7710
+139171 GTTAAAAGCATTTATTGGCCAGGCTCATGCCTGTAATCCCAGCACTTTGG
+       :::::::::::::: ::::::::::::: :::::::::::::::::::::
+154144 GTTAAAAGCATTTACTGGCCAGGCTCATACCTGTAATCCCAGCACTTTGG
+        8010      8020      8030      8040      8050     
+
+             7720      7730      7740      7750      7760
+139171 GAGGCTGAGGTGGGAGGACTGCTTGCCTCCAGGAGTTTGGGACCAGCCTG
+       ::::::::::::::::::::::::::::::: ::::::: ::::::::::
+154144 GAGGCTGAGGTGGGAGGACTGCTTGCCTCCAAGAGTTTGAGACCAGCCTG
+        8060      8070      8080      8090      8100     
+
+             7770      7780      7790      7800      7810
+139171 GGCAACATAGTGAGACCTCTTCTGTATGACAAATAAAAACAGCTGGGTGT
+       ::::::::::::::::::::::: ::  ::::::::::::::::::: ::
+154144 GGCAACATAGTGAGACCTCTTCTCTACAACAAATAAAAACAGCTGGGCGT
+        8110      8120      8130      8140      8150     
+
+             7820      7830      7840      7850      7860
+139171 GGTGGCACACCAGTAGTCCCAGCTACTCAGGAGGCTCAGGCGGGAGGATG
+       ::::::::::::::::::::::::::::::::::::::::::::::::: 
+154144 GGTGGCACACCAGTAGTCCCAGCTACTCAGGAGGCTCAGGCGGGAGGATC
+        8160      8170      8180      8190      8200     
+
+             7870      7880      7890      7900      7910
+139171 GCTTGAGCTCTGGAGGTCAAGGCTGCAGTGAGCTATGATGGCACCACTGC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GCTTGAGCTCTGGAGGTCAAGGCTGCAGTGAGCTATGATGGCACCACTGC
+        8210      8220      8230      8240      8250     
+
+             7920      7930      7940      7950      7960
+139171 ACTCAGCCTGGGCAACAGAGTGAGATTCTGTCTCAAAAAGTAAATAAAAA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 ACTCAGCCTGGGCAACAGAGTGAGATTCTGTCTCAAAAAGTAAATAAAAA
+        8260      8270      8280      8290      8300     
+
+             7970      7980      7990      8000      8010
+139171 TGAAAGCATGTATTAAACGCATTAGTGACACCACTCATTACTAAGGTATT
+       : ::::::::: ::::::: ::::::::::::::::: :: :::::::::
+154144 TAAAAGCATGTGTTAAACGTATTAGTGACACCACTCAGTATTAAGGTATT
+        8310      8320      8330      8340      8350     
+
+             8020      8030      8040      8050      8060
+139171 AAATAACAGGATCCCGCCTGACAACCACTGTTATTTCAGAGTAGTGATGA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 AAATAACAGGATCCCGCCTGACAACCACTGTTATTTCAGAGTAGTGATGA
+        8360      8370      8380      8390      8400     
+
+             8070      8080      8090      8100      8110
+139171 ACATAAGTGATATTCGAACTGTCTGCCACCTCTATGAATTGACAGGAAAA
+       ::::::::: :::::::::: :::::::::::::::::::::::::::::
+154144 ACATAAGTGGTATTCGAACTCTCTGCCACCTCTATGAATTGACAGGAAAA
+        8410      8420      8430      8440      8450     
+
+             8120      8130      8140      8150      8160
+139171 CATCTGTCTCCTCTCTTGCTGACCGAGTCACGGGTACTGCTAATACTGTG
+       :::::::  :::::::::::::::::::::::::::::::::::::::  
+154144 CATCTGTGACCTCTCTTGCTGACCGAGTCACGGGTACTGCTAATACTG--
+        8460      8470      8480      8490      8500     
+
+             8170      8180      8190      8200      8210
+139171 CCATGTTCATAACGGAAGGAAATGCCCAGTGTCTGTTCGAGGTTGGTGGA
+       ::: :::::::: :::::::::::::::::::::::::::::::::::::
+154144 CCACGTTCATAATGGAAGGAAATGCCCAGTGTCTGTTCGAGGTTGGTGGA
+          8510      8520      8530      8540      8550   
+
+             8220       8230      8240      8250         
+139171 AAGAAAGATGTCATATTT-CCACCTCAGTCCACGGAACCCTGAATTCTCT
+       :::::::::::: : ::: ::::::::::::  ::: ::::::::::: :
+154144 AAGAAAGATGTCGTTTTTTCCACCTCAGTCCGTGGAGCCCTGAATTCTGT
+          8560      8570      8580      8590      8600   
+
+    8260      8270      8280      8290      8300         
+139171 GTGCAGACGTTTGGGGTCTGAGCAGGAGAGTGGGAAGCTTTGCTTCCCAC
+       ::::::::::::::::::: ::::::: ::::::::::::::::::::::
+154144 GTGCAGACGTTTGGGGTCTAAGCAGGACAGTGGGAAGCTTTGCTTCCCAC
+          8610      8620      8630      8640      8650   
+
+    8310      8320      8330      8340      8350         
+139171 CTTTGCTTTGACTCAAAGCCCTCATCTGTCTGCTCTTCCCATAGGGATCA
+       :::::::::: ::::::::::::::::::::::::: :::::::::::::
+154144 CTTTGCTTTGGCTCAAAGCCCTCATCTGTCTGCTCTCCCCATAGGGATCA
+          8660      8670      8680      8690      8700   
+
+    8360      8370      8380      8390      8400         
+139171 CAGGTCTCTGGTCCCTGGCCATCATTTCCTGGGAGAGGTGGCTGGTGGTC
+       ::::::::::::: ::::::::::::::::::::::: ::: ::::::::
+154144 CAGGTCTCTGGTCTCTGGCCATCATTTCCTGGGAGAGATGGATGGTGGTC
+          8710      8720      8730      8740      8750   
+
+    8410      8420      8430      8440      8450         
+139171 TGCAAGCCCTTTGGCAACGTGAGATTTGATGCCAAGCTGGCCATCATTGG
+       ::::::::::::::::: ::::::::::::::::::::::::::: : ::
+154144 TGCAAGCCCTTTGGCAATGTGAGATTTGATGCCAAGCTGGCCATCGTGGG
+          8760      8770      8780      8790      8800   
+
+    8460      8470      8480      8490      8500         
+139171 CATTGCCTTCTCCTGGATCTGGTCTGCTGTGTGGACGGCCCCGCCCATCT
+       :::::::::::::::::::::: ::::::::::::: :::::::::::::
+154144 CATTGCCTTCTCCTGGATCTGGGCTGCTGTGTGGACAGCCCCGCCCATCT
+          8810      8820      8830      8840      8850   
+
+    8510      8520      8530      8540      8550         
+139171 TTGGTTGGAGCAGGTAAGGGTGCGAGGGCACGAGATGGATTGGGCAGGGT
+       ::::::::::::::::::::::::::: : : ::::::: ::::::::::
+154144 TTGGTTGGAGCAGGTAAGGGTGCGAGGACGCAAGATGGAGTGGGCAGGGT
+          8860      8870      8880      8890      8900   
+
+    8560      8570      8580      8590      8600         
+139171 CAGACTCTGTGACCTTAAGGCAAATCACTTCCTTTCTCTGGGCCCCTATG
+       ::::::::::::::::::::::::::::::::::::::::::::::: ::
+154144 CAGACTCTGTGACCTTAAGGCAAATCACTTCCTTTCTCTGGGCCCCTCTG
+          8910      8920      8930      8940      8950   
+
+    8610      8620      8630      8640      8650         
+139171 AGCGTGCAATGTCTATCAATGTATGAATGTGGCTGCAATGTAGGAATGGC
+       ::::::::::::::::::::::::::::::::::::::  :::::: :::
+154144 AGCGTGCAATGTCTATCAATGTATGAATGTGGCTGCAACATAGGAAAGGC
+          8960      8970      8980      8990      9000   
+
+    8660      8670      8680      8690      8700         
+139171 TCTGTGGTCCCCAAACCTCTGGAAACATATTTGTCCCAAGCACGATCAGG
+       :::::::::::: ::::::::::::::::::: :::::::::::::::::
+154144 TCTGTGGTCCCCGAACCTCTGGAAACATATTTATCCCAAGCACGATCAGG
+          9010      9020      9030      9040      9050   
+
+    8710      8720      8730      8740      8750         
+139171 TCACAGGAGCACACGGAGCTGAGGCCATGAGCACAGCTGTCAGTGAACGC
+       ::::::: :::::::::::: ::::::: :::::::::::::::::::::
+154144 TCACAGGCGCACACGGAGCTCAGGCCATCAGCACAGCTGTCAGTGAACGC
+          9060      9070      9080      9090      9100   
+
+    8760      8770      8780      8790      8800         
+139171 ACAGCGTGTTTGCATTCCAGGTCTCTTTCTTGCACATGCTGCCCCACCCC
+       : :::::::::::::::::::::::::::::::::: :::::: :::: :
+154144 ATAGCGTGTTTGCATTCCAGGTCTCTTTCTTGCACACGCTGCCGCACCAC
+          9110      9120      9130      9140      9150   
+
+    8810      8820      8830      8840      8850         
+139171 GCCCCCCACCTTTCAGAGGCTGCTTGGGTCATAGATCCACCTGGGCCTAC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GCCCCCCACCTTTCAGAGGCTGCTTGGGTCATAGATCCACCTGGGCCTAC
+          9160      9170      9180      9190      9200   
+
+    8860      8870      8880      8890      8900         
+139171 AGAGCACATGTCCTGGCCAGGCCAAGCAAGTGGCTCAAATGTTTGATTGG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 AGAGCACATGTCCTGGCCAGGCCAAGCAAGTGGCTCAAATGTTTGATTGG
+          9210      9220      9230      9240      9250   
+
+    8910      8920      8930      8940      8950         
+139171 GATGGACTGGATGGGACAGCATTTCACTGTTTTATCGACAAGCTTGTGAA
+         :::::::: ::::::::::::::::::::::::::::::::: :::::
+154144 AGTGGACTGGGTGGGACAGCATTTCACTGTTTTATCGACAAGCTCGTGAA
+          9260      9270      9280      9290      9300   
+
+    8960      8970      8980      8990      9000         
+139171 TAAGTTCTCGTGGTGTTTGGAGAGGGAATGTTCTTTCCTCCAGAACGTTC
+       :::::::::::::::::::::::::::::::::::::::: :::::::::
+154144 TAAGTTCTCGTGGTGTTTGGAGAGGGAATGTTCTTTCCTCGAGAACGTTC
+          9310      9320      9330      9340      9350   
+
+    9010      9020      9030      9040      9050         
+139171 CACAATTCTAGGAAACAAACCTTGTGGAAGCCTGTCTCTGTCTCCCACCC
+       :::::::::::::::::::::::::::::::::::::::::::::: :::
+154144 CACAATTCTAGGAAACAAACCTTGTGGAAGCCTGTCTCTGTCTCCCGCCC
+          9360      9370      9380      9390      9400   
+
+    9060      9070      9080      9090      9100         
+139171 TCCTCATGCCGCCATGCCCCACACAGCTGCCCGTTATCAAACATGTGTGG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TCCTCATGCCGCCATGCCCCACACAGCTGCCCGTTATCAAACATGTGTGG
+          9410      9420      9430      9440      9450   
+
+    9110      9120      9130      9140      9150         
+139171 CGAGCTGACCCTGGTGGAGGCTCTCCCGCGGGTTATCTCATTTAATCCTC
+        :::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TGAGCTGACCCTGGTGGAGGCTCTCCCGCGGGTTATCTCATTTAATCCTC
+          9460      9470      9480      9490      9500   
+
+    9160      9170      9180      9190      9200         
+139171 CAGGCCACCAAGTGAGCAGGGCCCTTTATTTCAGTCACGGCCTAGCTGAC
+       :::::::: :::::::::::::::::::::::::::: ::::::::::::
+154144 CAGGCCACTAAGTGAGCAGGGCCCTTTATTTCAGTCATGGCCTAGCTGAC
+          9510      9520      9530      9540      9550   
+
+    9210      9220      9230      9240      9250         
+139171 CTCAGATAAAAGACTCAGCTCTTCATGGGTGTTCTCAGAAGGTCAGGGCA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CTCAGATAAAAGACTCAGCTCTTCATGGGTGTTCTCAGAAGGTCAGGGCA
+          9560      9570      9580      9590      9600   
+
+    9260      9270      9280      9290      9300         
+139171 AGACGGAGCCTCACACTCCCTTCGTAAAGAAGGGGAGTGATTGGGAAGAT
+       ::: ::: ::::::: :::::: :::::::::::::::::::::::::::
+154144 AGAAGGAACCTCACAATCCCTTTGTAAAGAAGGGGAGTGATTGGGAAGAT
+          9610      9620      9630      9640      9650   
+
+    9310      9320      9330      9340      9350         
+139171 GAAAATGTTCTGGAAGCAGATAGTGGAGATGGTTGCACAGCACTGTGAAG
+       :::::::: ::::::::::::::::::::::::::::::::: :::::: 
+154144 GAAAATGTCCTGGAAGCAGATAGTGGAGATGGTTGCACAGCATTGTGAAT
+          9660      9670      9680      9690      9700   
+
+    9360      9370      9380         9390      9400      
+139171 GTACCATAGGTCATAATGGTACTTTTTT---TTTTTGAGACAGGGTCTCA
+       :::::: :::::: ::::::::::::::   :::::::::::::::::::
+154144 GTACCAAAGGTCACAATGGTACTTTTTTCTTTTTTTGAGACAGGGTCTCA
+          9710      9720      9730      9740      9750   
+
+       9410      9420      9430      9440      9450      
+139171 CTGTGTCACCCAGGCTGGCACAGTGCAGTGGTGTAATTATGGCTCACTGC
+       :: :::::: ::::::::::::::::::::::::::::::::::::::::
+154144 CTCTGTCACTCAGGCTGGCACAGTGCAGTGGTGTAATTATGGCTCACTGC
+          9760      9770      9780      9790      9800   
+
+       9460      9470      9480      9490      9500      
+139171 AGCCTCGACCTCCTGGGCTCAAGTGATCCTCCTACCTCAGCCTCCTGAGG
+       :::::: :::::::::::::::::::::::::::::::::::::::::::
+154144 AGCCTCCACCTCCTGGGCTCAAGTGATCCTCCTACCTCAGCCTCCTGAGG
+          9810      9820      9830      9840      9850   
+
+       9510      9520      9530      9540      9550      
+139171 AGCTGGGCCTACAGGTGCACCACTTCACCTGGCTAATTTTTTTTATTTTT
+       :::::::::::::: ::::::::::::::: :::::::::::::::::::
+154144 AGCTGGGCCTACAGATGCACCACTTCACCTAGCTAATTTTTTTTATTTTT
+          9860      9870      9880      9890      9900   
+
+       9560      9570      9580      9590      9600      
+139171 TGTAGAGACAAGATCTCACTATGTGTTCCAGGCTCTAGTCTTGAATTCCT
+       :::::::::::::::::::  ::::::::::::  :::::::::: ::::
+154144 TGTAGAGACAAGATCTCAC--TGTGTTCCAGGC--TAGTCTTGAACTCCT
+          9910      9920        9930        9940         
+
+       9610      9620      9630      9640      9650      
+139171 GGGCTCAAGCAATCCTCCTACCTCTGCCTCCAAATGTGCTGGGACTATAG
+       :::::: :::::::::::::::::::::::::::::::::::::::::::
+154144 GGGCTCGAGCAATCCTCCTACCTCTGCCTCCAAATGTGCTGGGACTATAG
+    9950      9960      9970      9980      9990         
+
+       9660      9670      9680      9690      9700      
+139171 GCGTGAGCCATTGTGCCTGGCCTATAATGGCACATTTTATGTTATGTGTA
+       :::::::::::::::::::::::::::::: :::::::::::::::::::
+154144 GCGTGAGCCATTGTGCCTGGCCTATAATGGTACATTTTATGTTATGTGTA
+   10000     10010     10020     10030     10040         
+
+       9710      9720      9730      9740      9750      
+139171 TTTTACCACAATTTTAAAAAGAGGAAAGGCATGACATCTAAAAACGGACA
+       :::::::::::::  ::::::: ::::::::::::::::::::: :::::
+154144 TTTTACCACAATTC-AAAAAGAAGAAAGGCATGACATCTAAAAATGGACA
+   10050     10060      10070     10080     10090        
+
+       9760      9770      9780      9790      9800      
+139171 AGGATTTACCAAAATCCTACCCAACGGTTTCGTTTTGGGTTGATGAAAAT
+       :::::: ::::::::::::::::::::::: :::::::::::::::::::
+154144 AGGATTAACCAAAATCCTACCCAACGGTTTTGTTTTGGGTTGATGAAAAT
+    10100     10110     10120     10130     10140        
+
+       9810      9820      9830      9840      9850      
+139171 GTTCTGGAAGCAGAGGTGGTGACTGCCACCGAACTGATCGCTTCAAATTG
+       ::::::::::::::::::::::::::::: ::: ::::: ::::::::::
+154144 GTTCTGGAAGCAGAGGTGGTGACTGCCACAGAATTGATCACTTCAAATTG
+    10150     10160     10170     10180     10190        
+
+       9860      9870      9880      9890      9900      
+139171 GGTAACCTCATGCAACGTGAATTTCACCTCAATTAAAAAAAACAGGCCAG
+       ::::: :::::::::: ::::::::::::::::: :::::::::      
+154144 GGTAATCTCATGCAACATGAATTTCACCTCAATTTAAAAAAACA------
+    10200     10210     10220     10230     10240        
+
+       9910      9920      9930      9940      9950      
+139171 GCGTGGTGGCTCACGCCTATAATCCCAGCACTTTGGGAAGCAGAGGTGGG
+                           :: :::: :                     
+154144 --------------------AACCCCACC---------------------
+                              10250                      
+
+       9960      9970      9980      9990     10000      
+139171 CGGATCATGAGGTCAGGAGATCGAGACCATCTTGGCTAACACAGTGAAAC
+                                                         
+154144 --------------------------------------------------
+                                                         
+
+      10010     10020     10030     10040     10050      
+139171 CCTGTCTCTATTAAAAATACAAAAAAATTAGCCGGGCCTGGTGGTGGGTG
+                                                         
+154144 --------------------------------------------------
+                                                         
+
+      10060     10070     10080     10090     10100      
+139171 CCTATGGTCCCAGCTACTCAGGAGGCTGAGGCAGGAGAATCGGTTCAATC
+                                                         
+154144 --------------------------------------------------
+                                                         
+
+      10110     10120     10130     10140     10150      
+139171 CAGGAGGCGGAGGTTGCAGTGAGCCGAGATCTCGCCACTGCACTCCAGCC
+                               :::: :                    
+154144 ------------------------CGAGTT--------------------
+                                                         
+
+      10160     10170     10180     10190     10200      
+139171 TGGGCGACAGAGCCAGACTCCATCTCAAAAACAAACAAACAAACAAACAA
+                                                         
+154144 --------------------------------------------------
+                                                         
+
+      10210     10220     10230     10240     10250      
+139171 AGAAAAAAAAACAGCACCATGCCTGGGCTGGGGGTCGTGGGTCACCCCAC
+                   :::::: ::::::::: ::::::: :::::::::::::
+154144 ------------AGCACCGTGCCTGGGCCGGGGGTCCTGGGTCACCCCAC
+                 10260     10270     10280     10290     
+
+      10260     10270     10280     10290     10300      
+139171 CCTGCATCAGGACTGGCTGCCGGCCCTTCTCTCCAGGTACTGGCCCCATG
+       :::::::::::::::::::::::::::::::::::::::::::::::: :
+154144 CCTGCATCAGGACTGGCTGCCGGCCCTTCTCTCCAGGTACTGGCCCCACG
+       10300     10310     10320     10330     10340     
+
+      10310     10320     10330     10340     10350      
+139171 GCCTGAAGACTTCATGCGGCCCAGACGTGTTCAGCGGCAGCTCGTACCCC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GCCTGAAGACTTCATGCGGCCCAGACGTGTTCAGCGGCAGCTCGTACCCC
+       10350     10360     10370     10380     10390     
+
+      10360     10370     10380     10390     10400      
+139171 GGGGTGCAGTCTTACATGATTGTCCTCATGGTCACCTGCTGCATCATCCC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GGGGTGCAGTCTTACATGATTGTCCTCATGGTCACCTGCTGCATCATCCC
+       10400     10410     10420     10430     10440     
+
+      10410     10420     10430     10440     10450      
+139171 ACTCGCTATCATCGTGCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAG
+       ::::::::::::: ::::::::::::::::::::::::::::::::::::
+154144 ACTCGCTATCATCATGCTCTGCTACCTCCAAGTGTGGCTGGCCATCCGAG
+       10450     10460     10470     10480     10490     
+
+      10460     10470     10480     10490     10500      
+139171 CGGTAAGCCCCCCGATTCCTCCTGGCCTCACCCCCCTCTTGCCCCTAAGG
+       ::::::::::::::::::::::::::::::::: :::: :::::::::: 
+154144 CGGTAAGCCCCCCGATTCCTCCTGGCCTCACCCGCCTCCTGCCCCTAAGC
+       10500     10510     10520     10530     10540     
+
+      10510     10520     10530     10540     10550      
+139171 TGCTCTGCCCTCAAATCAGTCCACTGAGACTCCTAAACTATTTTTTCAAA
+       :::::::::::::::: :::::::::::::::::::::::::::: ::::
+154144 TGCTCTGCCCTCAAATGAGTCCACTGAGACTCCTAAACTATTTTTCCAAA
+       10550     10560     10570     10580     10590     
+
+      10560     10570     10580     10590     10600      
+139171 AATCCCTAGAGAAGAGGTTTTTACCCCTATAAGAAAATATTAAGATCCAG
+       ::::: ::::::::::: ::::::::::::::::::::::::::::::::
+154144 AATCCTTAGAGAAGAGGATTTTACCCCTATAAGAAAATATTAAGATCCAG
+       10600     10610     10620     10630     10640     
+
+      10610     10620     10630     10640     10650      
+139171 CGATGAGAAGCAGGCGATTCCTTTGGGGCTGTACCAGTGGCTGCAGGTTC
+       ::::::::: :::: :::::::::::: ::::::::::::::::::::::
+154144 CGATGAGAATCAGGTGATTCCTTTGGGACTGTACCAGTGGCTGCAGGTTC
+       10650     10660     10670     10680     10690     
+
+      10660     10670     10680     10690     10700      
+139171 AGCCCCAGGCCCGTTGTCCTCAGCTCTGTGAGACGGGAAAGCACTGCCAC
+       :::::::: :::::::::::::::::::::::::::::::::::::::::
+154144 AGCCCCAGCCCCGTTGTCCTCAGCTCTGTGAGACGGGAAAGCACTGCCAC
+       10700     10710     10720     10730     10740     
+
+      10710     10720     10730     10740     10750      
+139171 TCTCTCCCTGGAGGAGTCCACTAGGGGAACAAAGGTGTGCCTTGCCCCGA
+       :: :::::::::::::::::::: ::::::: ::::::::::::::::::
+154144 TCCCTCCCTGGAGGAGTCCACTAAGGGAACAGAGGTGTGCCTTGCCCCGA
+       10750     10760     10770     10780     10790     
+
+      10760     10770     10780     10790     10800      
+139171 CCCTGGACAGTTCTCCCCGGGGTGGAAAGGCTGCCTTTCCCACAGAGTAG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CCCTGGACAGTTCTCCCCGGGGTGGAAAGGCTGCCTTTCCCACAGAGTAG
+       10800     10810     10820     10830     10840     
+
+      10810     10820     10830     10840     10850      
+139171 AGTGGAGCAGCCACATCAGCAAATGACACCTGCAAATCAAGGTGTGTTTT
+       :::::::::::::::::::::::::::::::::::::::::: :::::::
+154144 AGTGGAGCAGCCACATCAGCAAATGACACCTGCAAATCAAGGCGTGTTTT
+       10850     10860     10870     10880     10890     
+
+      10860     10870     10880     10890     10900      
+139171 TATGAGGCTGCCACCAGAGTACCCTTGTCCCTTTCATAAGCTGTGGGGCT
+       ::::::::::::::: :::::::::::::: ::::::: :::::::::: 
+154144 TATGAGGCTGCCACCGGAGTACCCTTGTCCTTTTCATAGGCTGTGGGGCC
+       10900     10910     10920     10930     10940     
+
+      10910     10920     10930     10940      10950     
+139171 GACCAAGGAGTGGACCCGAGTGTGCCATTTGCCCCCC-GACCCACTCTCC
+       :::::::::::::::::::: :::::::::::::::: ::::::::::::
+154144 GACCAAGGAGTGGACCCGAGAGTGCCATTTGCCCCCCTGACCCACTCTCC
+       10950     10960     10970     10980     10990     
+
+       10960     10970     10980     10990     11000     
+139171 ACCCTCCATGTCTGGCCCTCTGCCCTGGGAAGCTGATCCTGTCCACAGCC
+       ::: ::::::::::::::::::::::::::::::::::::::::::::::
+154144 ACC-TCCATGTCTGGCCCTCTGCCCTGGGAAGCTGATCCTGTCCACAGCC
+        11000     11010     11020     11030     11040    
+
+       11010     11020     11030     11040     11050     
+139171 ATCACCCCCCATCCCTAGCCTAGGTTACCACTGGGAGCCCTGCAGGAAGT
+        :::::::::: :::::: ::::: :::::::::::::::: ::::::::
+154144 GTCACCCCCCACCCCTAGACTAGGCTACCACTGGGAGCCCTTCAGGAAGT
+        11050     11060     11070     11080     11090    
+
+       11060     11070     11080      11090     11100    
+139171 CAGCGCAAGGGAGGAGAGCCAGGCTGGTTGTTT-CTGTTAGCAGTGGGAG
+       ::: ::::::::::::::::::::::::: ::: ::::::::::::::::
+154144 CAGAGCAAGGGAGGAGAGCCAGGCTGGTTCTTTTCTGTTAGCAGTGGGAG
+        11100     11110     11120     11130     11140    
+
+        11110     11120     11130     11140     11150    
+139171 CCTTTTCAGGGTGCTGGCTTTCCTATATGAAGCTGCCTGTGCCCACAATT
+       :: :::::::::::::::::::::::::::::::::::::::::::::::
+154144 CCCTTTCAGGGTGCTGGCTTTCCTATATGAAGCTGCCTGTGCCCACAATT
+        11150     11160     11170     11180     11190    
+
+        11160     11170     11180     11190     11200    
+139171 GGATGGGCATGCCTGCCAAGCTCTCTCTAGAGGAGTCTGTGAGCCTATGA
+       :::::::::::::::::::::::::::::::::::::::::::::: :::
+154144 GGATGGGCATGCCTGCCAAGCTCTCTCTAGAGGAGTCTGTGAGCCTGTGA
+        11200     11210     11220     11230     11240    
+
+        11210     11220     11230     11240     11250    
+139171 AAGGCCCCCTCACCCCGCCACCTTGGGGTGAAGGCTCCCACAGGTACCCA
+       ::::::::::::::::: ::::::::::::::::::::::::::::::::
+154144 AAGGCCCCCTCACCCCGTCACCTTGGGGTGAAGGCTCCCACAGGTACCCA
+        11250     11260     11270     11280     11290    
+
+        11260     11270     11280     11290     11300    
+139171 ACCATGGCTTGGGCTGTATTAGTCTGGGATGGTGGATCCCTAGCTCCAGA
+       :::::::::: :::::::::::::::::::::: :: ::: ::::::: :
+154144 ACCATGGCTTCGGCTGTATTAGTCTGGGATGGTAGAGCCCCAGCTCCACA
+        11300     11310     11320     11330     11340    
+
+        11310     11320     11330     11340     11350    
+139171 ATGTGGCCGCAGCTCTGCTGTCCCGGCCGTCCCTGCATTACAGCCCT-AC
+       :::::::: ::::::::::::: : ::: :::::::::: ::::::: ::
+154144 ATGTGGCCCCAGCTCTGCTGTCTCAGCCATCCCTGCATTCCAGCCCTCAC
+        11350     11360     11370     11380     11390    
+
+         11360     11370     11380     11390     11400   
+139171 ACTCCCTCTCTCATCGCCACTCATCTGCCTGCCGTCAGTCCCTCATCCCT
+       ::::::::::::::: :::::::::::::::::: :::::::::::::::
+154144 ACTCCCTCTCTCATCCCCACTCATCTGCCTGCCGCCAGTCCCTCATCCCT
+        11400     11410     11420     11430     11440    
+
+         11410     11420     11430     11440     11450   
+139171 GGCAGGCGGTGGCTGGCCTCTGTGGCCTCCCCCACAGTGCCTCTGCCTGG
+       :::::: :::::::::::::::  ::::::::::::::::::::::::::
+154144 GGCAGGTGGTGGCTGGCCTCTG--GCCTCCCCCACAGTGCCTCTGCCTGG
+        11450     11460       11470     11480     11490  
+
+         11460     11470     11480     11490     11500   
+139171 AGGCCATTCGTCTCCTTCCTCTCAGCAGGTGTGAAGGAGCCACCCCACCA
+       ::::::::::::::::::::: :::::::  :::::::::::::::::::
+154144 AGGCCATTCGTCTCCTTCCTCCCAGCAGGCATGAAGGAGCCACCCCACCA
+          11500     11510     11520     11530     11540  
+
+         11510     11520     11530     11540     11550   
+139171 CAGCTGCCCTCAGCTGCCTCACCATGAGTCCAGGGCAGGATTTAGTCCAC
+        :::::::::::::::::::::: ::::::::::::::::::::::::::
+154144 AAGCTGCCCTCAGCTGCCTCACCGTGAGTCCAGGGCAGGATTTAGTCCAC
+          11550     11560     11570     11580     11590  
+
+         11560     11570     11580     11590     11600   
+139171 AGAGTGGCCAACCTGGCCTAGGAAGCCTGAGGGAAGTGTATGCATTGCTC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 AGAGTGGCCAACCTGGCCTAGGAAGCCTGAGGGAAGTGTATGCATTGCTC
+          11600     11610     11620     11630     11640  
+
+         11610     11620     11630     11640     11650   
+139171 CGACACTCCCATCGCGCATCCCACCGGCCACTGCTTTCGCCTCCCCCGCC
+        ::::::::::::::::: ::: :: ::::::::::: ::::::::::::
+154144 TGACACTCCCATCGCGCACCCCGCCAGCCACTGCTTTTGCCTCCCCCGCC
+          11650     11660     11670     11680     11690  
+
+         11660     11670     11680     11690     11700   
+139171 ATCTCCATCTTGTTAGCTCCTTCATTCTCCACGCTCAGTGATCAATCAAA
+       ::::::: ::::::: :::::::::::::::::: :::: ::::::::::
+154144 ATCTCCACCTTGTTAACTCCTTCATTCTCCACGCCCAGTCATCAATCAAA
+          11700     11710     11720     11730     11740  
+
+         11710     11720     11730     11740     11750   
+139171 TCAGGCCTCCATGCTCAGGCCTGAGCGCAGAACAGGACAGTCTGTTACGG
+       :::::::::::::::::::::::::::::: :::::::::::::::: ::
+154144 TCAGGCCTCCATGCTCAGGCCTGAGCGCAGGACAGGACAGTCTGTTAAGG
+          11750     11760     11770     11780     11790  
+
+         11760     11770     11780     11790     11800   
+139171 GATCAGGTGAAGCAAAGGAGCTTGTTAGATCCAGCTCTGGGGTCATCTTA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GATCAGGTGAAGCAAAGGAGCTTGTTAGATCCAGCTCTGGGGTCATCTTA
+          11800     11810     11820     11830     11840  
+
+         11810     11820     11830     11840     11850   
+139171 GGCCACGCCTAGCTGCGTGCCACCTCCAATTCTAGAAGAACTCGCCCGGG
+       :::::: ::::::::: ::::::::::::::::::   ::::: ::: ::
+154144 GGCCACACCTAGCTGCATGCCACCTCCAATTCTAG---AACTCCCCCAGG
+          11850     11860     11870        11880         
+
+         11860     11870     11880     11890     11900   
+139171 GCCAGCCTGAGGCCGCCATGTCCGCCTGGGGCCGGCTGTGCTCCACTCAG
+       ::::::::::::: :::::::: :::::::::::::::::::::::::::
+154144 GCCAGCCTGAGGCAGCCATGTCTGCCTGGGGCCGGCTGTGCTCCACTCAG
+   11890     11900     11910     11920     11930         
+
+         11910     11920     11930     11940     11950   
+139171 GGCTGGAAGCTGGCTGCTGGGCTCCTCTCCTCCTCCCCACAACTCCCTAT
+       ::::::::: ::::::::::::::::::::::::::::::::::::::::
+154144 GGCTGGAAGATGGCTGCTGGGCTCCTCTCCTCCTCCCCACAACTCCCTAT
+   11940     11950     11960     11970     11980         
+
+         11960     11970     11980     11990     12000   
+139171 GCCTGGGTCACCTGCCTCTTGCTGCCCCCCAACTCCCAACTCACTGTCCC
+       ::::::::::::::::::::::::::: ::::: ::: ::::::: ::::
+154144 GCCTGGGTCACCTGCCTCTTGCTGCCCTCCAACCCCCGACTCACTATCCC
+   11990     12000     12010     12020     12030         
+
+         12010     12020     12030     12040     12050   
+139171 TGTCTCCCTCAGGTGGCAAAGCAGCAGAAAGAGTCTGAATCCACCCAGAA
+       ::::::::: ::::::::::::::::::::::::::::::::::::::::
+154144 TGTCTCCCTTAGGTGGCAAAGCAGCAGAAAGAGTCTGAATCCACCCAGAA
+   12040     12050     12060     12070     12080         
+
+         12060     12070     12080     12090     12100   
+139171 GGCAGAGAAGGAAGTGACACGCATGGTGGTGGTGATGATCTTTGCGTACT
+       :::::::::::::::::: :::::::::::::::::::::::::::::::
+154144 GGCAGAGAAGGAAGTGACGCGCATGGTGGTGGTGATGATCTTTGCGTACT
+   12090     12100     12110     12120     12130         
+
+         12110     12120     12130     12140     12150   
+139171 GCGTCTGCTGGGGACCCTATACCTTCTTCGCATGCTTTGCTGCTGCCAAC
+       ::::::::::::::::::: ::::::::::::::::::::::::::::::
+154144 GCGTCTGCTGGGGACCCTACACCTTCTTCGCATGCTTTGCTGCTGCCAAC
+   12140     12150     12160     12170     12180         
+
+         12160     12170     12180     12190     12200   
+139171 CCTGGCTACGCCTTCCACCCTTTGATGGCTGCCCTGCCAGCCTACTTTGC
+       ::::: :::::::::::::::::::::::::::::::: :::::::::::
+154144 CCTGGTTACGCCTTCCACCCTTTGATGGCTGCCCTGCCGGCCTACTTTGC
+   12190     12200     12210     12220     12230         
+
+         12210     12220     12230     12240     12250   
+139171 CAAAAGTGCCACTATCTACAATCCTGTTATCTATGTCTTTATGAACCGGC
+       ::::::::::::::::::::: :: :::::::::::::::::::::::::
+154144 CAAAAGTGCCACTATCTACAACCCCGTTATCTATGTCTTTATGAACCGGC
+   12240     12250     12260     12270     12280         
+
+         12260     12270     12280     12290     12300   
+139171 AGGTAAGCAACACCATCAGCAGATCCCACTCAAAATGCCGTGTGCCCTAG
+       :::::::::::::::::::::::::::::::::::: :::::::::::::
+154144 AGGTAAGCAACACCATCAGCAGATCCCACTCAAAATACCGTGTGCCCTAG
+   12290     12300     12310     12320     12330         
+
+         12310     12320     12330     12340     12350   
+139171 AAGGGTGCAGTGATGGCCCCACCTGGAATCATGTCTCTGATCACAAGCCC
+       ::::::::::::::::::::::::::::::::::::::::: : ::::::
+154144 AAGGGTGCAGTGATGGCCCCACCTGGAATCATGTCTCTGATAAGAAGCCC
+   12340     12350     12360     12370     12380         
+
+         12360     12370     12380     12390     12400   
+139171 GTGGAGCATCTGGGGGACCCTCCAGGGAAACGACCGGGAAAGGCTCAGCA
+       : :::::::::::::::::::::::::::: :::::::::::::::::: 
+154144 GCGGAGCATCTGGGGGACCCTCCAGGGAAATGACCGGGAAAGGCTCAGCG
+   12390     12400     12410     12420     12430         
+
+         12410     12420     12430     12440     12450   
+139171 TGTGACCCAGCCCCAGCCAGTACTCCAGCTGGCCCTTAGCAGAAGGCTTA
+       ::::::::::::::::::::  ::::::::::::::::::::::::::::
+154144 TGTGACCCAGCCCCAGCCAGAGCTCCAGCTGGCCCTTAGCAGAAGGCTTA
+   12440     12450     12460     12470     12480         
+
+         12460     12470     12480     12490     12500   
+139171 GGTGTGCCCTCTGGAATCCTTCATAGTCTCGGCCTGAGGGTGGCATTTCC
+       ::::::::::::::::::::: ::::::::::::::::::::::::::::
+154144 GGTGTGCCCTCTGGAATCCTTTATAGTCTCGGCCTGAGGGTGGCATTTCC
+   12490     12500     12510     12520     12530         
+
+         12510     12520     12530     12540     12550   
+139171 CAAAGCGTCGGTGTGCCGTGTGTTCTTCCCTTCCGGTGGCCCCAGAACTA
+       ::::::::: :::::::::: : ::::::::::::::::::: :::::::
+154144 CAAAGCGTCTGTGTGCCGTGCGCTCTTCCCTTCCGGTGGCCCTAGAACTA
+   12540     12550     12560     12570     12580         
+
+         12560     12570     12580     12590     12600   
+139171 TGGCTGCCGAGCTTCAGGGGCTCTCCTGGCGTTCAGACGCTCTAGGAGTT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TGGCTGCCGAGCTTCAGGGGCTCTCCTGGCGTTCAGACGCTCTAGGAGTT
+   12590     12600     12610     12620     12630         
+
+         12610     12620     12630     12640     12650   
+139171 GGTGAGCCCTAGGTACATCCACCCTAGGTGTGCCCCTCTTCTGTTCAGAC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GGTGAGCCCTAGGTACATCCACCCTAGGTGTGCCCCTCTTCTGTTCAGAC
+   12640     12650     12660     12670     12680         
+
+         12660     12670     12680     12690     12700   
+139171 TCGACCCTTCTCAACCTTCATCTCTCCATTTTCAAACCATAACCTCTGGA
+       :::::::::::::::::::::::::::::::::::::: :::::::::::
+154144 TCGACCCTTCTCAACCTTCATCTCTCCATTTTCAAACCGTAACCTCTGGA
+   12690     12700     12710     12720     12730         
+
+         12710     12720     12730     12740     12750   
+139171 ATTTGTCTTCCTATAAGAACAAAAGCCGGCCCTCCTTGGCTACGCTGACC
+       ::::::::::::::::::::::::::::::::::::::::::: ::::::
+154144 ATTTGTCTTCCTATAAGAACAAAAGCCGGCCCTCCTTGGCTACACTGACC
+   12740     12750     12760     12770     12780         
+
+         12760     12770     12780     12790      12800  
+139171 AAGAGTTCAAGAGCTTTCACGAGTTCGCGGGTTAGTTC-GGGGGGACGTG
+       ::::::::::::::::::::::::::: :::::::::: :::::::::::
+154144 AAGAGTTCAAGAGCTTTCACGAGTTCGTGGGTTAGTTCAGGGGGGACGTG
+   12790     12800     12810     12820     12830         
+
+          12810     12820     12830     12840     12850  
+139171 CTGTGGTCCTGCCCAGAGGCAGCCTCCTCAGCTGGCATACTGGGCCTCAG
+       :::::::::::::::::::::::::::: :::::::::: ::::::::::
+154144 CTGTGGTCCTGCCCAGAGGCAGCCTCCTTAGCTGGCATATTGGGCCTCAG
+   12840     12850     12860     12870     12880         
+
+          12860     12870     12880      12890     12900 
+139171 CAGCAAGCTGCTCGCACACCTAAATCCCCCCACCTC-TGTAGGTTACAGG
+       ::::::::::::: :::::::::::::::::::::: :: ::::::::::
+154144 CAGCAAGCTGCTCACACACCTAAATCCCCCCACCTCCTGCAGGTTACAGG
+   12890     12900     12910     12920     12930         
+
+           12910     12920     12930     12940     12950 
+139171 CTTCATTAAAGCGCAGCTGTGATGTGACTTGATGATGGCCAGAAAGGTGT
+       :::::::::::::::::::::::::::::::::: :::::::::::::::
+154144 CTTCATTAAAGCGCAGCTGTGATGTGACTTGATGGTGGCCAGAAAGGTGT
+   12940     12950     12960     12970     12980         
+
+           12960     12970     12980     12990     13000 
+139171 GCAGAGGCCTCCCACCTCACCAGGCCCAGTGCATCCCTTCCACTGGGCTC
+       ::::::::::::::  :::::::::::::: :::::::::::::::::::
+154144 GCAGAGGCCTCCCATTTCACCAGGCCCAGTCCATCCCTTCCACTGGGCTC
+   12990     13000     13010     13020     13030         
+
+           13010     13020     13030     13040     13050 
+139171 TTCCTTGCTTCTCCATCTTAGAGCCACTCAACGGCTCCAGCCCCTTTGGC
+       ::::::::::::::::::::::::::::::: ::::::::::::::::::
+154144 TTCCTTGCTTCTCCATCTTAGAGCCACTCAATGGCTCCAGCCCCTTTGGC
+   13040     13050     13060     13070     13080         
+
+           13060     13070     13080     13090     13100 
+139171 TCAGCTTTGACTCACACAAGCCAAGTCTGCAGAGTTCATTAAGGGTTCAT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TCAGCTTTGACTCACACAAGCCAAGTCTGCAGAGTTCATTAAGGGTTCAT
+   13090     13100     13110     13120     13130         
+
+           13110     13120     13130     13140     13150 
+139171 TCTCTCTGGTAACTTTTAAACAGTAAGTAGGACCAGGCCTGCAGTGGATT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 TCTCTCTGGTAACTTTTAAACAGTAAGTAGGACCAGGCCTGCAGTGGATT
+   13140     13150     13160     13170     13180         
+
+           13160     13170     13180     13190     13200 
+139171 TCCGGGAACTCGCTGTAGCACACTGATGCCCGGAGTGTAGTTCTGTCCCT
+       ::::::::::::::::::::::::::::::: :::::::::::: :::::
+154144 TCCGGGAACTCGCTGTAGCACACTGATGCCCAGAGTGTAGTTCTATCCCT
+   13190     13200     13210     13220     13230         
+
+           13210     13220     13230     13240     13250 
+139171 GACCCCCGTTTCCTGACTTTCATGAGGGTCTTTTTCAGGTTTCTGGAATC
+       :::::: :::::::::::::::::::: ::::::: ::::::::::::::
+154144 GACCCCTGTTTCCTGACTTTCATGAGGATCTTTTTTAGGTTTCTGGAATC
+   13240     13250     13260     13270     13280         
+
+           13260     13270     13280     13290     13300 
+139171 CTAAACTCTCTTGCCAAGTACTGTCTTTACTGGATTATTTCCATTCTCCC
+       ::::::: ::::::::::::::::::::::::::::::::::::::::: 
+154144 CTAAACTATCTTGCCAAGTACTGTCTTTACTGGATTATTTCCATTCTCCT
+   13290     13300     13310     13320     13330         
+
+           13310     13320            13330     13340    
+139171 TTCCAGAACTCCCCCTCCT-------AGACAGATGTCCGCACTTCTGGAC
+       ::::::::::::::::          ::::::::::: ::::::::::::
+154144 TTCCAGAACTCCCCCTGGACAGGGGGAGACAGATGTCTGCACTTCTGGAC
+   13340     13350     13360     13370     13380         
+
+        13350     13360     13370     13380     13390    
+139171 CTCACCAGGCCTCGAACTTTGCTTTTACCCTTTCCACATAATTATCCTGT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CTCACCAGGCCTCGAACTTTGCTTTTACCCTTTCCACATAATTATCCTGT
+   13390     13400     13410     13420     13430         
+
+        13400     13410     13420     13430     13440    
+139171 CCTGCCACATTCTGAGAGAATTTTCTGGAATGCAGTTCCATGAAGACAGC
+       :::::::::::::::::::::::::::::: :::::::::::::::::::
+154144 CCTGCCACATTCTGAGAGAATTTTCTGGAACGCAGTTCCATGAAGACAGC
+   13440     13450     13460     13470     13480         
+
+        13450     13460     13470     13480     13490    
+139171 AAATTTTGCTCAGGACAGAGTCTGGCACACAGTGTGTGCTCAAGCAGCAG
+       :::::::::::::::::::::::::::::::::: :::::::::::::::
+154144 AAATTTTGCTCAGGACAGAGTCTGGCACACAGTGGGTGCTCAAGCAGCAG
+   13490     13500     13510     13520     13530         
+
+        13500     13510     13520     13530     13540    
+139171 CTGCTGAATGGGTTCCTCAGCCCTGTCTCCCAGCTCTTCAGCCGAGCTCA
+       ::::::::::: :::::::::::: ::::::::::::::::::::::: :
+154144 CTGCTGAATGGATTCCTCAGCCCTATCTCCCAGCTCTTCAGCCGAGCTGA
+   13540     13550     13560     13570     13580         
+
+        13550     13560     13570     13580     13590    
+139171 TTCTGCTGTTCGTCCCGTTTCTTATGTTATTAATTTCAACCATCATATTT
+       :::::::::: :::::::::::::::::::::::::::::::: ::::::
+154144 TTCTGCTGTTTGTCCCGTTTCTTATGTTATTAATTTCAACCATTATATTT
+   13590     13600     13610     13620     13630         
+
+        13600      13610     13620     13630     13640   
+139171 TTTATTTT-GAGAGTTTTGATGCTAGAGGGAGTTAGAGCTAGTCAAGGGT
+       :::::::: ::::::::::::: :::::::::::::::::::::::: ::
+154144 TTTATTTTTGAGAGTTTTGATGATAGAGGGAGTTAGAGCTAGTCAAGAGT
+   13640     13650     13660     13670     13680         
+
+         13650     13660     13670     13680     13690   
+139171 AGGCCTGAAATATTTAGAAAATGCCTTTGGTCTGGGTCCTCAAAGCATTG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 AGGCCTGAAATATTTAGAAAATGCCTTTGGTCTGGGTCCTCAAAGCATTG
+   13690     13700     13710     13720     13730         
+
+         13700     13710     13720     13730     13740   
+139171 TGGTTACTTCAGTGATGACACAGGACATGATTTGAGACATTCGTATGGCC
+       :::::::::::: ::::::::::::::::::::::::::::: :::::::
+154144 TGGTTACTTCAGGGATGACACAGGACATGATTTGAGACATTCATATGGCC
+   13740     13750     13760     13770     13780         
+
+         13750     13760     13770     13780     13790   
+139171 CAGATCTCTTTGGGGTGAAGCAGCAAAGACAGACCCCTCCTGGTACCGGA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CAGATCTCTTTGGGGTGAAGCAGCAAAGACAGACCCCTCCTGGTACCGGA
+   13790     13800     13810     13820     13830         
+
+         13800     13810     13820     13830     13840   
+139171 AGACGCTTGGCTGGAGAGATGACGTGGGGGCTAGATTGTCATTACCTAGG
+       :::::::::::::::::::::: :: ::::::::::::::::::::::::
+154144 AGACGCTTGGCTGGAGAGATGAGGTAGGGGCTAGATTGTCATTACCTAGG
+   13840     13850     13860     13870     13880         
+
+         13850     13860     13870     13880     13890   
+139171 CCTCACCTTGCCCCAGATCCATGGACTGGAAAAAACCTGACAACCACATG
+       :::::::::::::::::::::::::::::::::::: :::::::::::::
+154144 CCTCACCTTGCCCCAGATCCATGGACTGGAAAAAACATGACAACCACATG
+   13890     13900     13910     13920     13930         
+
+         13900     13910     13920     13930     13940   
+139171 CCTTTTCATTAGCATTCCTCTGAGCCGCTCACCAGACAGTCTGGGGACAG
+       :::::::::::  ::::::: :::::::::::::::::::::::::::::
+154144 CCTTTTCATTAATATTCCTCCGAGCCGCTCACCAGACAGTCTGGGGACAG
+   13940     13950     13960     13970     13980         
+
+         13950     13960     13970     13980     13990   
+139171 GTCACCACTGTGCCTTAGCTGTCACTGTGGATGAGTGTCGTGGGGCTGCC
+       ::::::::::  ::::::::::::::::::::::::::: ::::::::::
+154144 GTCACCACTGCCCCTTAGCTGTCACTGTGGATGAGTGTCATGGGGCTGCC
+   13990     14000     14010     14020     14030         
+
+         14000     14010     14020     14030     14040   
+139171 GTCACAAACTACCACAAACTCAGTGGCTTCAAACCACAGAAATGGATTCT
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GTCACAAACTACCACAAACTCAGTGGCTTCAAACCACAGAAATGGATTCT
+   14040     14050     14060     14070     14080         
+
+         14050     14060     14070     14080     14090   
+139171 CTCAGGGTTCTGGAAATCTTGAGTCTGAAATCAGGGTGTTGGCAAATGGA
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 CTCAGGGTTCTGGAAATCTTGAGTCTGAAATCAGGGTGTTGGCAAATGGA
+   14090     14100     14110     14120     14130         
+
+         14100     14110     14120     14130     14140   
+139171 AAGGTTCCCTATGGAGGCCGAGAGGCAGAAGCAGCTGCAGGGCTGCTGGC
+       :::::::::::::::::::: :::: :::::::::::::::::::: :::
+154144 AAGGTTCCCTATGGAGGCCGGGAGGGAGAAGCAGCTGCAGGGCTGCCGGC
+   14140     14150     14160     14170     14180         
+
+         14150     14160     14170     14180     14190   
+139171 AGTCCTTGGCGTTCCTTGACTCCAAGGTGTGTCGCCCCAGTCTCTGCCTT
+       :::: :::::::::::::::::::::::::::: ::::::::::::::::
+154144 AGTCTTTGGCGTTCCTTGACTCCAAGGTGTGTCACCCCAGTCTCTGCCTT
+   14190     14200     14210     14220     14230         
+
+         14200     14210     14220     14230     14240   
+139171 CCTCTTCACGTGGCCTTCTTCCCTCTGTCTGCGTGTCTGTGTCCAAGCGT
+       : ::::::::::::::::::::::::::::::::::: ::::::::::::
+154144 CATCTTCACGTGGCCTTCTTCCCTCTGTCTGCGTGTCCGTGTCCAAGCGT
+   14240     14250     14260     14270     14280         
+
+         14250     14260     14270     14280     14290   
+139171 TCCTTTTCTTATCAGGACACCAGTCATTCGATTAGGACCCACCCTGCCCC
+       :::::::::::::::::::::::::::::::::::: :::::::::: ::
+154144 TCCTTTTCTTATCAGGACACCAGTCATTCGATTAGGGCCCACCCTGCTCC
+   14290     14300     14310     14320     14330         
+
+         14300     14310     14320     14330     14340   
+139171 AGTGTGACCTCGTCTGAACCTGAACACATCTTTTGGGGGACACACTTCAA
+       ::::::::::: ::: ::::::::::::::::::::::::: ::::::::
+154144 AGTGTGACCTCATCTTAACCTGAACACATCTTTTGGGGGACCCACTTCAA
+   14340     14350     14360     14370     14380         
+
+         14350     14360     14370     14380     14390   
+139171 CCCTGTGTAGTCACCATCAACTGCTAAGTCAGATGACATCCCCGCGTGTG
+       ::: ::::::::::::::::::::::::::::::::::::::::::::::
+154144 CCCAGTGTAGTCACCATCAACTGCTAAGTCAGATGACATCCCCGCGTGTG
+   14390     14400     14410     14420     14430         
+
+         14400     14410     14420     14430     14440   
+139171 AGGGAGAAATAATCCAAGCCTTCCTCCATCCCCCATGGGATTCGGAATGG
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 AGGGAGAAATAATCCAAGCCTTCCTCCATCCCCCATGGGATTCGGAATGG
+   14440     14450     14460     14470     14480         
+
+         14450     14460     14470     14480     14490   
+139171 GTGAAGGGAAGGCTCGGGCACGTACATTCAGCACAGTGCTCCACCCTTCC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GTGAAGGGAAGGCTCGGGCACGTACATTCAGCACAGTGCTCCACCCTTCC
+   14490     14500     14510     14520     14530         
+
+         14500     14510     14520     14530     14540   
+139171 CTGCTCTGCTCAATAACACTTTCTGTCCTTCCAGTTTCGAAACTGCATCT
+       ::::::::::::::::: ::::::::::::::::::::::::::::::::
+154144 CTGCTCTGCTCAATAACGCTTTCTGTCCTTCCAGTTTCGAAACTGCATCT
+   14540     14550     14560     14570     14580         
+
+         14550     14560     14570     14580     14590   
+139171 TGCAGCTTTTTGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCC
+       :::::::::: :::::::::::::::::::::::::::::::::::::::
+154144 TGCAGCTTTTCGGGAAGAAGGTTGACGATGGCTCTGAACTCTCCAGCGCC
+   14590     14600     14610     14620     14630         
+
+         14600     14610     14620     14630     14640   
+139171 TCCAAAACGGAGGTCTCATCTGTGTCCTCCGTATCGCCTGCATGAGGTCT
+       ::::::::::::::::::::::::::::: ::::::::::::::::::::
+154144 TCCAAAACGGAGGTCTCATCTGTGTCCTCGGTATCGCCTGCATGAGGTCT
+   14640     14650     14660     14670     14680         
+
+         14650     14660     14670     14680     14690   
+139171 GCCTCCTACCCATCCCGCCCACCGGGGCTTTGGCCACCTCTCCTTTCCCC
+       ::::::::::::::::::::::::::::::::::::::::::::::::::
+154144 GCCTCCTACCCATCCCGCCCACCGGGGCTTTGGCCACCTCTCCTTTCCCC
+   14690     14700     14710     14720     14730         
+
+         14700     14710     14720     14730     14740   
+139171 CTCCTTCTCCATCCCTGTGAAATAAATGTAATTTATCTTTGCCAAAACCA
+       :::::::::::::::::: :::::::::::::::::::::::::::::::
+154144 CTCCTTCTCCATCCCTGTAAAATAAATGTAATTTATCTTTGCCAAAACCA
+   14740     14750     14760     14770     14780         
+
+        
+139171 A
+       :
+154144 A
+   14790
+
+
+#---------------------------------------
+#---------------------------------------
