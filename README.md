@@ -4,7 +4,7 @@
 Я выбрала ген [**SRY (sex determining region Y)** – Homo sapiens (human)](https://www.ncbi.nlm.nih.gov/gene/6736).  
 Этот ген кодирует транскрипционный фактор, запускающий развитие мужского пола у млекопитающих. Он активирует каскад генов, ведущий к формированию яичек.  
 
-[**Последовательность в формате FASTA**](#) *(вставить ссылку или файл)*
+[**Последовательность в формате FASTA**](https://github.com/solnyshko3622/Bioinformatics/blob/task2/SRY-homoSapiens.fna)
 
 ---
 
