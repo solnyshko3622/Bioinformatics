@@ -47,16 +47,16 @@
 ## Таксономический анализ  
 Таксономические иерархии:
 
-Animalia Chordata Mammalia Primates Hominidae Gorilla Gorilla gorilla
-Animalia Chordata Mammalia Primates Hominidae Pan
-Animalia Chordata Mammalia Primates Hominidae Pan
-Animalia Chordata Mammalia Primates Hominidae Pongo
-Animalia Chordata Mammalia Primates Hylobatidae Symphalangus
-Animalia Chordata Mammalia Primates Hominidae Pongo
-Animalia Chordata Mammalia Primates Hylobatidae Hylobates
-Animalia Chordata Mammalia Primates Cercopithecidae Rhinopithecus
-Animalia Chordata Mammalia Primates Cercopithecidae Macaca
-Animalia Chordata Mammalia Primates Cercopithecidae Trachypithecus
+Animalia Chordata Mammalia Primates Hominidae Gorilla Gorilla gorilla /
+Animalia Chordata Mammalia Primates Hominidae Pan /
+Animalia Chordata Mammalia Primates Hominidae Pan /
+Animalia Chordata Mammalia Primates Hominidae Pongo /
+Animalia Chordata Mammalia Primates Hylobatidae Symphalangus /
+Animalia Chordata Mammalia Primates Hominidae Pongo /
+Animalia Chordata Mammalia Primates Hylobatidae Hylobates /
+Animalia Chordata Mammalia Primates Cercopithecidae Rhinopithecus /
+Animalia Chordata Mammalia Primates Cercopithecidae Macaca /
+Animalia Chordata Mammalia Primates Cercopithecidae Trachypithecus /
 
 Наименьший таксон, объединяющий все найденные виды:
 - **Латинское название**: *Primates*  
