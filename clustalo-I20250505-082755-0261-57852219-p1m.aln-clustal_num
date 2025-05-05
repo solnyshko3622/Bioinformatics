@@ -1,0 +1,1178 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCAGCAGGGCAAGTAGTCAATGTTACTGAATTACCATGTTTTGCTTGAGAATGAATACAT	60
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGTCAGGGCACTAGGGGGTAGGCTGGTTGGGAGGGGTTGAGGGGGTGTTGAGGGCGGAGA	120
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AATGAAAGTTTCATTACAAAAGTTAACGTAACAAAGAACCTGGTAGAAGTGAGTTTTGGA	180
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAGTAAAATAAGTTTGGAACTCTGGCACCTTTAAATTTTGTCGAACCCTCGTTGTTTTTG	240
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACAATGCAATCATATGCTTCTGCTATGTTAAGCGTATTCAACAGCGATGATTACAGTCCA	300
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGTGTGCAACAGAATATTCCCGCTCTCCGGAGAAGCTCTTCCTTCCTTTGCACTGAAAGC	360
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TATAACTCTAAGTATCAGCGTGAAACGGGAGAAAACAGTAAAGACAGCGTCCAGGATAGA	420
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GTGAAGCGACCCATGAACGCATTCTTCGTGTGGTCTCGCGATCAGAGGCGCAAGATGGCT	480
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTAGAGAATCCCAGAATGCGAAACTCAGAGATCAGCAAGCAGCTGGGATACCAGTGGAAA	540
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATGCTTACTGCAGCCGAAAAATGGCCATTCTTCCAGGAGGCACAGAAATTACAGGCCATG	600
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CACAGAGAGAAATACCCGAATTATAAGTATCGACCTCGTCGGAAGGCGAACATGCTGCCG	660
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAGAATTGCAGTTTGCTTCCCGCAGATCCCGCTTCGGTACTCTGCAGCGAAGTGCAACTG	720
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GACAACAGGTTGTACAGGGATGACTGTACGAAAGCCACACACTCAACAATGGAGCACCAG	780
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTAGGCCACTTACCGCCCATCAACGCAGCCAGCTCACCGCAGCAACGGGACCGCTGCAGC	840
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CACTGGACAAAGCTGTAGGACAATCGGGTAACATTGGCTACAAAGACCTACCTAGATGCT	900
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCTTTTTACGATAACTTACAGCCCTCACTTTCTTATGTTTAGTTTCAATATTGTTTTCTT	960
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCTCTGGCTAATAAAGGCCTTATTCATTTCAGCTTTACTGGTATTTCATTTTAAACTTA	1020
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATTTCAAGACAAGTTGTGTCAACACGATTAACATGCAAAGAAATAAGACATCCAGAAGTG	1080
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACCCTGCCTATGTTTGTGGCCGTCAGACTACTAACTTGATACAAACGGAXM-PREDICTE	1139
+                                                                       *        
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          DGorillagorillagorillasexdeterminingregionYSRYmRNAACCTCGTCGC	1199
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCCGTAGACTGCGGCCCCGAAACTACACTTAAGAGTCCCTCGGGGCCCTGGCGGATGGCA	1259
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGCGTGATGAAGCGCCGCACCGTGGTGGGCCGCAGGGTATCAGATGTAGTGTGGCGGGGG	1319
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CGGCGTCCTGCAGTGTGGCTGGGCGCAACTGGACGCTGTACCTCTCGATAGCAGCCTAGT	1379
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CGCCGCTCTCCATCCTCGCTCCTGTGCGACGCCACTTTATCCCTCTTAAAGTGGACGATT	1439
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CAGTAGTACCGGGGAACGAAGGCAACAAGAGCTAACCATAGCAACAACATTTTGTTTTTG	1499
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAACCCGTCTTGCAACTGCCTGACTGCAAAATGTACTTGCAGATTATGCAGACAAAAATT	1559
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCTGCCACTTATTGAAAGACTTCATAGTGAAAACTGACTTTTTACCCAAACCCCTGATTC	1619
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAGGACTTTTGCGTAGAAACTCATGAACTGTGAAGATAACCCTTCATTACCAATTAAGAT	1679
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AATAGGTTGTAAGTAACCTAATGAGTACCAACTTTCTCTTATTTCCTTTAAAAACTGTCT	1739
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTCAAAACAGCCGGTCACGACACAATGTCAGATGCTTCTGGAATCTGTTTCTCTAATAAC	1799
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGTTCTAAAACTGCCAACAAACTCCTTATTTGGACTTCAGTTTCTCTGACTCTTTGGTTC	1859
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACCATGTTGTGCAGCCATCACCTCTCTCTAGTTCCAGAGCATATTTTATCAATCCTCAAA	1919
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGAAACCGTGCATCCACCAGCAGTAACTTCCCTCTTTCATCCAGTCCTTAGCAACCATTA	1979
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATCTGGTTTTGGTCTCTATTCATTTGCCTTTCCTGGATATTTCATATACATGGGATCATT	2039
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CAGTATCTGGCCTCTTGTATCTGACTTTTTCACACAGTATAACATTTTCAAGGTTCACCT	2099
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATGTGGTGCCTTGTGTCATTTTTTGCTATTGTCATGTCAGGTTTTGAAATGGTATGTTTT	2159
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCTCATCTTGTAAGGGATTTCCAGTTGTAGAAAATCTGCTTCTGTGTATGACTGCAATT	2219
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAACCATTTTATTTGCTATCCAGATACATGTTTTAACTTGAGTCAACTATATTTCCACTT	2279
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGTATAATGAATACTAAATTTTGTATCTTAGATACTAAACTTTATTAGATAACTAGGATA	2339
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CAAATTACAGTTTTCATATTTTTCTTTTCATGGAATATAATTTTTTAAAGTTTCTGATAT	2399
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAATTCATTATAACATTTACTGGACAAACCAACCACATTTGGTTCTATGAACTCTTTTCA	2459
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TATTTTACGGGATTTTTATTTTGTTGTCTTAGGAATTGTGGCATCATTCAGTTTTGCTGA	2519
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GAGTTTATTTTTATTAATAGGTTCTGTGTACTATGCAACCTGTAGTGGTTACTCCTGTTT	2579
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGCAAATATGGCATTAAAACATTGGTGAGTGGGGAGACTTTCCTCCCATTTTATTTCATC	2639
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAAGAAATCTTGTCATTTCTCATCAGACTTTAAGATTTATTGAGGAGAGTTATTCACTTG	2699
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTAGTATTGTAAACTGTGACCTTTAAATTTTGAAGGAGGTTGAACTAAAAGGTGAAATA	2759
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGATAAATTGATGGCTCTATTTGTTGTGAATGGAAATTTAATTTAGACTTGTAAAAGATT	2819
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GTTTTTTAAATTGCTAATTGTGTGACAGTGAAGAGAATGACTTCAAAATATCCCACTATA	2879
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CAATCTGCAAAGAAAAGAATTGTGTCCCCTTTTTAGTGTAGCTTAACACTTCACTGAAAC	2939
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGTTTTGAGTTCTTAGGTCATCTTTTTTTCTCTAAACGAAACAATTACTTTTTTAAAAGT	2999
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CAAATGTTAGCCATCCTAGAAGTTGGGCATAAAACACTTGTAAGTATATGCTAATATTCT	3059
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GATACTTAATGCCTGTGAAAAATGTGTATAGAATTTTCAATTTTTAAATAGAAGTGAAGA	3119
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAAAGCGATAATAATTACTATAAATTCAATATGCAGTTATGTATGTAAGTGTGTGGTTAA	3179
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CACAATTAGGTTCTCATTAAGCTTTGTTTTTTAAAGATAACATACACATATATTGATAAT	3239
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GATAAACAATTCATATAGCTTTTTGTGTCCTCTCGTTTTGTGACATAAAAGGTCAATGAA	3299
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAAATTGGCGATTAAGTCAAATTTGCATTTTTCAGGAGAGTAGTAGAGCAGTCAGGGAGG	3359
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CAGATCAGCAGGGCAAGTAGTCAATGTTACTGAATTACCATGTTTTGCTTGAGAATGAAT	3419
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACATTGTCAGGGCACTAGGGGGTAGGCTGGTTGGGCGGGGTTGACAGGGGTGTTGAGGGC	3479
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGAGAAATGAAAGTTTCATTACAAAAGTTAACGTAACAAAGAATCTGGTAGAAGTGAGTT	3539
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTGGATAGTAAAATAAGTTTCGAACTCTGGCACCTTTCAATTTTGTCGCACCCTCCTTGT	3599
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTTGACAATGCAATCATACGCTTCTGCTATGTTAAGCGTATTCAACAGCGATGATTACA	3659
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GTCCAGCTGTGCAACAGACTATTCCCGCTCACCGGAGAAGCTCTTCCTTCCTTTGCACTG	3719
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAAGCTGTAACTCTAAGTATCAGTGTGAAACGGGAGAAAACAGTAAAGGCAGCGTCCAGG	3779
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATCGAGTGAAGCGACCCATGAACGCATTCATCGTGTGGTCTCGCGATCAGAGGCGCAAGA	3839
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGGCTCTAGAGAATCCCAGAATGCGAAACTCAGAGATCAGCAAGCAGCTGGGATACCAGT	3899
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGAAAATGCTTACTGAAGCCGAAAAATGGCCATTCTTCCAGGAGGCACAGAAATTACAGG	3959
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCATGCACAGAGAGAAATACCCGAATTATAAGTATCGACCTCGTCGGAAGGCGAAGATGC	4019
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGCCGAAGAATTGCAGTTTGCTTCCCGCAGATCCCGCTTCGGTACTCTGCAGCGAAGTGC	4079
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AACTGGACAACCGGTTGTACAGGGATGACTGTACGAAAGCCACACACTCAAGAATGGAGC	4139
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACCAGCTAGGCCACTTACCGCCCATCAACGCAGCCAGCTCACCGCAGCAACGGGACCGCT	4199
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACAGCCACTGGACAAAGCTGTAGGACAATCGGGTAACATTGGCTACAAAGACCTACCTAG	4259
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATGCTCCTTTTTACGATAACTTACAGCCCTCACTTTCTTATGTTTAGTTTCAATATTGTT	4319
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCTTTTCTCTGGCTAATAAAGGCCTTATTCATTTCANC-c-SRYorganismHomosap	4377
+                                                           * *                  
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          iensGeneIDchromosomeYAGAAGTGAGTTTTGGATAGTAAAATAAGTTTCGAACTCT	4437
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGCACCTTTCAATTTTGTCGCACTCTCCTTGTTTTTGACAATGCAATCATATGCTTCTGC	4497
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TATGTTAAGCGTATTCAACAGCGATGATTACAGTCCAGCTGTGCAAGAGAATATTCCCGC	4557
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCTCCGGAGAAGCTCTTCCTTCCTTTGCACTGAAAGCTGTAACTCTAAGTATCAGTGTGA	4617
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AACGGGAGAAAACAGTAAAGGCAACGTCCAGGATAGAGTGAAGCGACCCATGAACGCATT	4677
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CATCGTGTGGTCTCGCGATCAGAGGCGCAAGATGGCTCTAGAGAATCCCAGAATGCGAAA	4737
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTCAGAGATCAGCAAGCAGCTGGGATACCAGTGGAAAATGCTTACTGAAGCCGAAAAATG	4797
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCCATTCTTCCAGGAGGCACAGAAATTACAGGCCATGCACAGAGAGAAATACCCGAATTA	4857
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAAGTATCGACCTCGTCGGAAGGCGAAGATGCTGCCGAAGAATTGCAGTTTGCTTCCCGC	4917
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGATCCCGCTTCGGTACTCTGCAGCGAAGTGCAACTGGACAACAGGTTGTACAGGGATGA	4977
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTGTACGAAAGCCACACACTCAAGAATGGAGCACCAGCTAGGCCACTTACCGCCCATCAA	5037
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CGCAGCCAGCTCACCGCAGCAACGGGACCGCTACAGCCACTGGACAAAGCTGTAGGACAA	5097
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCGGGTAACATTGGCTACAAAGACCTACCTAGATGCTCCTTTTTACGATAACTTACAGCC	5157
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTCACTTTCTTATGTTTAGTTTCAATATTGTTTTCTTTTCTCTGGCTAATAAAGGCCTTA	5217
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCATTTCAXM-PREDICTEDHylobatesmolochsexdeterminingregionYSRY	5276
+                               *                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          mRNAAGAAGTGAGTTTTGGATAGTAAAATAAGTTTTGAACTCTGGCACCTTTCAATTTTG	5336
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCGCATCCTCCTTGTTTTTGACAATGCAATCATATGCTTCTGCTATGTTAAGCGTATTCA	5396
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACAGTGATTATTACAGTCCAGCTGTGCAACAGAATACTCCCGCTCTCCGGAGAAGCTCTT	5456
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCTTCATTTGCACTGAAAGCTGTAACTCTAAGTATCCGTGTGAAACGGGAGAAAACAGTA	5516
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAGTCAGCGTCCAGCATAGAGTGAAGCGACCCATGAACGCATTCATCGTGTGGTCTCGCG	5576
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATCAGAGGCGCAAGATGGCTCTAGAGAATCCCAAAATGCGAAACTCAGAAATCAGCAAGC	5636
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGCTGGGATACCAGTGGAAAATGCTTACTGAAGCCGAAAAATGGCCATTCTTCCAGGAGG	5696
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CACAGAAACTACAGGCCATGCACAGAGAGAAATACCCAAATTATAAGTATCGACCTCGTC	5756
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGAAGGCGAAGATGCTGCAGAAGAGTTGCAGTTTGCTTCCTGCAGATTCCGCTTCGGTAC	5816
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCTGCAGCAAAGTGCAACTGGACAACAGGTTGTACAGGGATGACTGTACAAAAGCCACAC	5876
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACTCAAGAATGGAGCACCAGCTAGGCCACTTACCGCCCATCAACACAGCCAGCTCACCGC	5936
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGCAACAGGACCACTACAGCCACTCGACGAAGCTGTAGGACAATCGGGTAACATTGGCTA	5996
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CAAAGACCTACCTAGATGCTCCTTTTTACGATAACTTACAGCCCTCACTTTCTTATGTTT	6056
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGTTTCAATATTGTTTTCTTTTCTCTGGCTAATAAAGGCCTTATTCATTTCADQ-Pantr	6115
+                                                                          *     
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          oglodytesSRYSRYgenecompletecdsCAGCTATGACCATGTCAGCAGGGCAAGTAG	6175
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCAATGTTACTGAATTACCATGTTTTGCTTGAGAATGAATACATTGTCAGGGCACTAGGG	6235
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGTAGGCTGGTTGGGAGGGGTTGAGGGGGTGTTGAGGGCGGAGAAATGAAAGTTTCATTA	6295
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CAAAAGTTAACGTAACAAAGAACCTGGTAGAAGTGAGTTTTGGATAGTAAAATAAGTTTC	6355
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GAACTCTGGCACCTTTAAATTTTGTCGCACCCTCCTTGTTTTTGACAATGCAATCATATG	6415
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTTCTGCTATGTTAAGCGTATTCAACAGCGATGATTACAGTCCAGCTGTGCAACAGAATA	6475
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCCCGCTCTCCGGAGAAGCTCTTCCTTCCTTTGCACTGAAAGCTATAACTCTAAGTATC	6535
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGCGTGAAACGGGAGAAAACAGTAAAGATAGCGTCCAGGATAGAGTGAAGCGACCCATGA	6595
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACGCATTCTTCGTGTGGTCTCGCGATCAGAGGCGCAAGATGGCTCTAGAGAATCCCAGAA	6655
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGCGAAACTCAGAGATCAGCAAGCAGCTGGGATACCAGTGGAAAATGCTTACTGAAGCCG	6715
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAAAATGGCCATTCTTCCAGGAGGCACAGAAATTACAGGCCATGCACAGAGAGAAATACC	6775
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CGAATTATAAGTATCGACCTCGTCGGAAGGCGAACATGCTGCCGAAGAATTGCAGTTTGC	6835
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCCCGCAGATCCCGCTTCGGTACTCTGCAGCGAAGTGCAACTGGACAACAGGTTGTACA	6895
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGGATGACTGTACGAAAGCCACACACTCAAGAATGGAGCACCAGCTAGGCCACTTACCGC	6955
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCATCAACGCAGCCAGCTCACCGCAGCAACGGGACCGCTACAGCCACTGGACAAAGCTGT	7015
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGGACAATCGGGTAACATTGGCTACAAAGACCTACCTAGATGCTCCTTTTTACGATAACT	7075
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TACAGCCCTCACTTTCTTATGTTTAGTTTCAATATTGTTTTCTTTTCTCTGGCTAATAAA	7135
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGCCTTATTCATTTCAGCTTTACTGGTATTTCATTTTAAACTTAATTTCAAGACAAGTTG	7195
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGTCAACACGATTAACATGCAAAGAAATAAGACATCCAGAAGTGACCCTGCCTATGTTTG	7255
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGGCCGTCAGAGTACTAACTTGATACAAACGGAXM-PREDICTEDPongoabeliisexd	7314
+                                                       *                        
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          eterminingregionYSRYtranscriptvariantXmRNACAAAAGTTAACGTAACAA	7374
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGAATCTGGTAGTAGTGAGTTTTGGATAGTAAAATAAGTTTCGAACTCTGGCACCTTTCA	7434
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATTTTGTCTCATCCTCCTTGTTTTTCACAATGCAATCATATGCTTCTGCTATGTTAAGCG	7494
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TATTCAACAGTGATGATTACAGTCCAGCTGTGCAACAGAATATTCCCGCTCTCCGGAGAA	7554
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCTCTTCCTTCATTTGCACTGAAAGCTATAACTCTAAGTATCAGTGTGAAACGGGAGAAA	7614
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACAGTAAAGGCAGCGTCCAGGATAGAGTGAAGCGACCCATGAACGCATTCATCGTGTGGT	7674
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTCGCGATCAGAGGCGCAAGATGGCTCTAGAGAATCCCAAAATGCGAAACTCAGAGATCA	7734
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCAAGCAGCTGGGATACCAGTGGAAAATGCTTACTGAAGCCGAAAAATGGCCATTCTTCC	7794
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGGAGGCACAGAAACTACAGGCCATGCATAGAGAGAAATACCCGAATTATAAGTATCGAC	7854
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTCGTCGGAAGGCGAAGATGCTGCAGAAGAGTTGCAGTTCGCTTCCCGCAGATCCCGCTT	7914
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CGGTACTCTGCAGCGAAGTGCTGCAACTGGACAACAGGTTGTACAGGGATGACTGTACGA	7974
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAGCCACACACTCAAGACTGGAGCACCAGCTAGGCCACTTACCGCCCATCAACACAGCCA	8034
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCTCACCGCAGCAACGGGACCGCTACAGCCACTCGACAGAGCTGTACGACAATCGGGTAA	8094
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CATTGGCTACAAAGACCTACCTAGATGCTGCTTTTTACGATAACTTACAGCCCTCACTTT	8154
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTTATGTTTAGTTTCAATATTGTTTTCTTTCCTCTGGCTAATAAAGGCCTTATTCATTTC	8214
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AXM-PREDICTEDPongopygmaeussexdeterminingregionYSRYmRNAGTTGAG	8273
+                       *                                                        
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTCTTTTTCTGAACCCAGAGGCATGTTTACACATTTCATTAAAGTATCAGAGACGTATA	8333
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTGAGAACCTGCTACATGTCACACACTATCGTAGGAGCTGTAGACAGAAAAATAATAAAA	8393
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCTTGTGTCTTTATTTAAATTTTGTTGACTTTCACCCCCAAGTGAGTCTCCTCCCACACC	8453
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCGTCCTGTAATATATGCATCTGGGAGGTCTTTTTTGCCTTTTTAAAAATATACAGATGG	8513
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTGACATATGTATATAAGAATATAAAATTCACCACTTTATCTTTTGTGTGTGAGTGTGT	8573
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCTGTGAAGAGCTCCTTTATTGGGGTGATGGAACCAGTGGCTCCAAAGTGAAGAGCTGGT	8633
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTACTGCTGTGAAGGGTTCGCGGCTTTGAATTTCAAGCTCTGGTTCTGTGTCCTTGGGCA	8693
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCTGCGCGTGAATCGTTGCCGCGAGGCTGGGCCAAGTTAAGGCCCCAAGCACTTTGGCTT	8753
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCGGGCCAGGGATGGCCTCCATGCCCCACAGGGTGAAGCGGCTGAAGCTGGCAGTAGTTC	8813
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CGAGGAAGCGGTCGAAGTCCCGCTGCAGAGGCTCCTCTTCTTGGTTGTCACTCCCGGAAC	8873
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCCGCCAGGGGTCTGGCTTCTCCATCGACACCTCCTCCTCTTCAGTCACCATCACGTATC	8933
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCACGAGGCTGGGCGGCACCGCCACCTCCTCGCCCCGTAGACTGCGGCCCCGAAAAGACG	8993
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CACCATGGCGGGCCGCAGGATATCAGGTGTAGTGTGGCGGGGGCGGCGTCCCGCAGTGTA	9053
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCTGGACGGAACTGGACGCCGTACCTCTCGATAGCCGCCTAGTCGCCGCTCTCCATCCTC	9113
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCTCTTGTGCGACGCCACTTTATCCCTCTTAAAGTGGAGGATTTAGTAGTACCGGGGAAC	9173
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GAAGGCAACAAGAGCTAACCATAGCAACATTTTCTTTTTGAAACCCATCTTGCAACTGCC	9233
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGACTGCAAAATCTACTTGCAGATTCTGCAGACAAAAATTGCTGCCACTTATTAAAAGAC	9293
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTATAGTGAAAACTGACTTTTTCCCCAAACCCCTGATTCAAGGACTTTTGCGTAGAAAC	9353
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CATGAACTGTTAAGATAACCCTTCATTACCAATTAAGATAATAGGTTGTAAGTAACCTAA	9413
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGAGTACCAGCTTTCTCTTATTTCCTTTAAAAACTCTCTCTAAACAGCCGGTCACGACAC	9473
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AATGTCAGATGCTTCTGGAATCTGTTTCTCGAATTCCAGTTCTAAAACTGCCAACAAACT	9533
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCTTATTTGGACTTCAGTTTCTCTGACTCTTTGGTTCACCATGTTGTGCAGCCATCACCT	9593
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTCTCTACTTCCAGAGAATATTTTATTAGTCCTCAAAAGAAACCGTGCACCCACCAGCAG	9653
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAACTCCCCACAACCTCTTTCATCCAGTCCTTAGCAACCATTAATCTGGTTTTCGTCTCT	9713
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATTCATTTGCCTTTCCTGGATATTTCGTATACATGGGATCATTCAGTATCTGGCCTCTTG	9773
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TATCTGACTTTTTCACACAGTATAACGTTTTCAAGGTTCACTATGTGGTGCCTTGTGTCG	9833
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTTTTGCTATTTTGATGTCAGGTTTTGAAATGGTATGTTTTTTCTCATCTTTTAAGGGA	9893
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTCCAGTTGTAGAAAATCTATTTGTGTGTATGACTGCAATTTAACCATTTTATTTGCAA	9953
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCATATACATGTTTTAACTTGAGTGAACTATATTTCCACTTTGTATAATGAATACTAAA	10013
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTTGTATCTTAAATATTAAACTTTATTAGATAACTAGGATACAAATTACAGTTTTCACA	10073
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTTTCTTTTCATGGAATATAGTTAATTTTTTTAAGTTTCTGATATTAATTCATTATAAC	10133
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATTTACTGGACAATCACATTTGGGTCTATGAACTCTTTCCATATTTTATGGGATTTTTAT	10193
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTATTATCTTAGGAATTTTGGCATCATTCAGTTTTGCTGAGAGTTTATTTTTATTAATA	10253
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CGTTCTGTGTACTATGCAACCTGTAATTGTTACTCCTGTTTTGCAAATATGGCATTAAAA	10313
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CATTGGCGAGTGGGGGGACTTTCCTCCCATTTTATTTCATCAAAGAAATCTTGTCATTTC	10373
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCATCAGACTTTAAGATTTATTGAGAAGAGTTATTCACTAGTTTGGTAAACTGTGACTTC	10433
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAAATTTTGAAGGACGTTGAACTAAAATGTAAAATATGATAAATTGATGGCTGTAATTTA	10493
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTAGTTGTGAATGGAAATTTAATTTAGACTTGTAAAAGATTGTTTTTTAAATTGCTAATT	10553
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GTGTGACAGTGAAGAGAATGACTTCAAAATATCCCACTATACAATCTGCAAAGAAAAGAA	10613
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTGTGTCCCCTTTTTAGTGTATCTTAACACTTCACTGAAACTGTTTTGAGTTCTTAGGTC	10673
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATCTCTTTTTCTCTAAACGAAACAATTACTTTTTTAAAAGTCAAATGTTAGCCATCCTAG	10733
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAGTTGGGCATAAAATACTTGTAAGTATATGTTAATATTATGATACTTAATGCCCGTGAA	10793
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAATGTGTATAGAATTTTCAATTACTCTTTAAATAAAAGTGAAGAAAAAGCAATAATAAT	10853
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TACTATAAATTCAATATGCAGTTATGCATGTATGTGTGTGGTTAACACAATTAGTTTCTC	10913
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATTAAGCTTTGTTTTTTAAAGATAACATGCACATATATTGATAATGATAAACAATTCATA	10973
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAGCTTTTTGTGTCCTCTCGTTCTCTGACATAAAAGGTCATTGAAAAAATTGGCGATTAA	11033
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GTCAAATTTGCATTTTTCAGGAGAGTAGTAGAGCCGTCAGGGAGGCAGATCAGCAGGGCA	11093
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGTAGTCAATGTTACTGAATTACCATGTTTTACTTGAGAATGAATACATTGTCAGGGCTC	11153
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAGGGGGTAGACTGGTTGGGCGGGGTTGAGAGGGGTGTTGGGGGCGGAGAAATGAAAGTT	11213
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCATTACAAAAGTTAACGTAACAAAGAATCTGGTAGTAGTGAGTTTTGGATAGTAAAATA	11273
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGTTTCGAACTCTGGCACCTTTCAATTTTGTCTCATCCTCCTTGTTTTTCACAATGCAAT	11333
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CATATGCTTCTGCTATGTTAAGCGTATTCAACAGTGATGATTACAGTCCAGCTGTGCAAC	11393
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGAATATTCCCGCTCTCCGGAGAAGCTCTTCCTTCATTTGCACTGAAAGCTATAACTCTA	11453
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGTATCAGTGTGAAACGGGAGAAAACAGTAAAGGCAGCGTCCAGGATAGAGTGAAGCGAC	11513
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCATGAACGCATTCATCGTGTGGTCTCGCGATCAGAGGCGCAAGATGGCTCTAGAGAATC	11573
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CCAAAATGCGAAACTCAGAGATCAGCAAGCAGCTGGGATACCAGTGGAAAATGCTTACTG	11633
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAGCCGAAAAATGGCCATTCTTCCAGGAGGCACAGAAACTACAGGCCATGCATAGAGAGA	11693
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AATACCCGAATTATAAGTATCGACCTCGTCGGAAGGCGAAGATGCTGCAGAAGAGTTGCA	11753
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GTTCGCTTCCCGCAGATCCCGCTTCGGTACTCTGCAGCGAAGTGCTGCAACTGGACAACA	11813
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGTTGTACAGGGATGACTGTACGAAAGCCACACACTCAAGACTGGAGCACCAGCTAGGCC	11873
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACTTACCGCCCATCAACACAGCCAGCTCACCGCAGCAACGGGACCGCTACAGCCACTCGA	11933
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CGGAGCTGTACGACAATCGGGTAACATTGGCTACAAAGACCTACCTAGATGCTGCTTTTT	11993
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACGATAACTTACAGCCCTCACTTTCTTATGTTTAGTTTCAATATTGTTTTCTTTCCTCTG	12053
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCTAATAAAGGCCTTATTCATTTCAGTTTTACTGGTATTTCATTTTAAACTTAATTTCAA	12113
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GACAAGTTGTGTCAACAAAAAACATGCAAAGAAATAAGACATCCAGAAGCGAGCCCACCT	12173
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATGTTTGTGGCTGTTTAACAGAGTACTAACTTGATACAAAGGGACACTGTGGTTTACTTT	12233
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAATACTCTAATGAGAAACACTTGAAAATCGTACAAAAAAAAAATCACACTTCTATACGC	12293
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGCGTGTTAAGCAGTCCTTTCTAGACCGTGTATTCATTGGTCTTTCAGCTACTTTGTACG	12353
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCTCTATAAATTGCAGGTAACTAAGGAATGGATATGTAAGCAGGATCAAACTTGTTTCTT	12413
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCTCTCCCCTTCACGCTGTGGAAAAACCAGTTTTGCCTCCACTTGCAATTCAGTTCCTTT	12473
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACTCCATATAAATCCAAATGGTTGACATTTCCTTTCAACTAGTTATAAAATGCCTCTGTT	12533
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAAACAAAATCTTTAATTCCTTGTCATTTTATATCTCTGTGAAGCTCATCATTTTGCCTT	12593
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCTTCTGAAAACTATCTCTTAAAATGGCAATCTACTTGTTTCCATGGCCTATTAGCTTTT	12653
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAGCCTATGGAATGAAAAATACAGATGGAATGTTGAGAATGGCAACTACCCAGATTATGC	12713
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGATGGAAGGACAGGGGCTGGTGACCCAACTGGTTTAATTTGATGGGATTTAAATAAAAA	12773
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTTAATGCCAAGACTTCATAAAATTTGCATACTAAGCTAAAGCAGAAAGAAGTTTTAGAA	12833
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GTTTACAAATAACTGTAAACCACAGTTTAAAGTATAAATTACAAATAAATTTTTCTACAA	12893
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAAAAATAAATCAAAGGTCAAAATTAATGGTATGTATCAAAGTCAACTGTCCAATATTTC	12953
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AAAACTTTTCAGACACATTACCTTAAATAATAAAACTCACACACTAAAAGAGTGTATATT	13013
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AGAGATGGATATCCTGTTTCTCAAAGTTCAGGGTTTTAAAAAAGCTGTTAATTCATAAAC	13073
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CACTTTATTCCAGGGACAATATTACTTAATCTGAGCTTTATGCCAAATGAGAACTGTATA	13133
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTGCCCGTTAACTTTTAAACACTGACTCAAAACTACTTTGTAATATTTAAAACCACTCTT	13193
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCACTCTCCCAAAAATAACACCCATTCTGACCTTCATTACCACACATTAATTTTCCTTT	13253
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TCTTGAACCTCTGACACAGATTCTCTGCTTGATCAAACTTTAATCAGGTTTCTGAACGTT	13313
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTCCTAGACACGCCTGTGCACTTCTTTGCCAAACTCAGTTTTGGCAAAAAACTCTCCTAA	13373
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCCAGGTTAGCAAGACTGTTCCCCCACTGCATATCTGATCACCCTCAACATTTGATCGAT	13433
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CACCCTCAATATCTGATCAGGTTCCTCATCCTCCACCACCCTCTAGGTGATGTCTGATCA	13493
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GCCTAGCCTGTCTTCAGCAAGAATCCGCCTTATCTGTGATGTCTTCTCTTAGTGATTGTC	13553
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CATCCATTGACCCTACTCCCTGCTCCTTGGCTATAAATCCCCACCTACCCAGCTGTATTT	13613
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GGAGCTAAGGCCAATCTCTCCCCTAGTGCAAGACCCCATTGCTGTGCTGTTGGTCCTGAA	13673
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TAGTCTTCCTTACCAAGTTTGAACAAGTATCACTGAATACCATTTTTCCTTAACAATGTG	13733
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          AATAAATATAAATACAAAATATTATGTGGAGCTTCTTTTGCTTAATAAATTTTGGCAGTT	13793
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCAGATTATTAAAAATTAGGTCTTCATGCATGTATACATTGTGGAATGACTAAATCAAG	13853
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          CTAAGGTATCTACTACCTCATATACTTCCCTTTCCTTTTGCACTGGGAACATTTAAGTTG	13913
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TTCTCTCTTCGCAATTTTCAAGCATACAATACATTTTTATTACCTATATTCAACATGCTC	13973
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TACAATAGATCTGAACGAATTGCTTCTATCTAGATGAAATATTATAATTTTTGAATAACA	14033
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATACTCATCTCTCCACCTGACCCTACTAGAGGGTAGCCACAATTCTACTCCCAAAAATAT	14093
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          GAAAGACTTCACATTTGAATACCCTCCTGGCACAGGGGCAGTGTTATTCTTCTCCATATC	14153
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ATTCTAATTTTAGTATATATGCTGCCCAAACAAGAATTTTTAAGAAAAAATTGCTGTGAG	14213
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TATTTCATTCTATTTTTGTTGGACAAATGAATGGACACTTTCTGGTTTCAATTATTACAA	14273
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          ACAGTGCTGTTTTTTATACATTCTTATACATGTACAATGGAGAACATTTATAAGAATTTC	14333
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGTGAAGCACACTCCCAAGAGCAGAATTGATACTTCATGTACGGTTTATTTAGGAATTAC	14393
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	0
+DQ977198.1          TGAAATGAAGCATTTTTGTATTTTTXM-PREDICTEDRhinopithecusroxellanas	14452
+                                               *                                
+
+XM_071089432.1      --------------------------------------AGAAGTAAGTTGTGGATAGTAA	22
+DQ977198.1          exdeterminingregionYSRYmRNAGAGAATCTGGTAGAAGTAAGTTTTGGATAGTTA	14512
+                                                          *********** ********:*
+
+XM_071089432.1      ATTAAGTTTCAAAATCTGGCACCTTTCAGTTTTGTCGCAGCCTCCTTGTTTTTGACAATG	82
+DQ977198.1          ATTAAGTTTCCAAATCTGGCACCTTTCAGTTTTGTCGCACCCTCCTTGTTTTTGACAATG	14572
+                    **********.**************************** ********************
+
+XM_071089432.1      CAATCATATGCTTCTGCCATGTTAAGCGTATTTAACACTGATGGTTACAGTCCAGCTGCA	142
+DQ977198.1          CAATCATATGCTTCTGCTATGTTAAGCGTATTTAACACTGATGATTACAGTCCAGCTGCG	14632
+                    ***************** *************************.***************.
+
+XM_071089432.1      CAACAGAATATTCCTGCTCTCCGGAGAAGCTCTTCCTTCATTTGCACTGAAAGCTGTAGC	202
+DQ977198.1          CAACAGAACGTTCCTGCTCTCCGGAGAAGCTCTTCCTTCATTTGCACTGAAAGCTGTAGC	14692
+                    ******** .**************************************************
+
+XM_071089432.1      TCTAAGTATCAGTGTGAAGCAGGAGAAAACAGTAAAGGCAGCGTCCAGGATAGAGTGAAG	262
+DQ977198.1          TCTAAGTATCGGTGTGAAGCAGGAGAAAACAGTAAAGGCAGCGTCCAGGATAGAGTGAAG	14752
+                    **********.*************************************************
+
+XM_071089432.1      CGACCCATGAACGCATTCATTGTGTGGTCTCGCGATCAGAGGCGCAAGATGGCTCTAGAG	322
+DQ977198.1          CGACCCATGAACGCATTCATTGTGTGGTCTCGCGATCAGAGGCGCAAGATGGCTCTAGAG	14812
+                    ************************************************************
+
+XM_071089432.1      AATCCCAAAATGCGAAACTCAGAGATCAGCAAGCAGCTGGGATACCAGTGGAAAATGCTT	382
+DQ977198.1          AATCCCAAAATGCTAAACTCAGAGATCAGCAAGCAGCTGGGATACCAGTGGAAAATGCTT	14872
+                    ************* **********************************************
+
+XM_071089432.1      ACCGAAGCCGATAAATGGCCATTCTTCCAGGAGGCACAGAAACTACAGGCCATGCATAGA	442
+DQ977198.1          ACCGAAGCCGATAAACGGCCATTCTTCCAGGAGGCACAGAAACTACAGGCCATGCATAGA	14932
+                    *************** ********************************************
+
+XM_071089432.1      GAGAAATACCCGAATTATAAGTATCGACCTCGTCGGAAGGCGAAGATGCTGCAAAACAGT	502
+DQ977198.1          GAGAAATACCCGAATTATAAGTATCGACCTCGTCGGAAGGCGAAGATGCTGCAAAACAGT	14992
+                    ************************************************************
+
+XM_071089432.1      TGCAGTTTGCTTCCGGCAGATCCCTCTTCGGTACCCTGCAGAGAAGTGTA---CAACAAC	559
+DQ977198.1          TGCAGTTTGCTTCCCGCAGATCCTTCTTCGGTACTCTGCAGAGAAATGGAACTGGACAAC	15052
+                    ************** ******** ********** **********.** *    .*****
+
+XM_071089432.1      AGGTTGTACAGGGATGACTGTACCAAAGCCACGCACTCAAGAATGCAGCACCAGTTAGGC	619
+DQ977198.1          AGATTGTACAGGGATGACTGTATCAAAGCCACACACTCAAGAATGCAGC------TAGGC	15106
+                    **.******************* *********.****************      *****
+
+XM_071089432.1      CACTTACCGCCCATCAACACAGCCAGCTTACCGCAGCAACGGGACCGCTACAGCCACTCG	679
+DQ977198.1          CACTTACCGCCCATCAACACAGCCAGCTCACCGCAGCAACGGGACCGCTACAGCCACTCG	15166
+                    **************************** *******************************
+
+XM_071089432.1      ACAAAGCTGTAGGACAACCGGGTAACATTGGCTACAAAGACCTATGTAGATGCTCGTTTT	739
+DQ977198.1          ACAAAGCTGTAGGACAATCGGGTAACACTGGCTACAAAGACCTATGTAGATGCTCGTTTT	15226
+                    ***************** ********* ********************************
+
+XM_071089432.1      TACGGTAACTTACAGCTTTCTTATGTTTACACTTTCTTATGTTTAGTTTCAATATTATTT	799
+DQ977198.1          TACGGTAACTTACAGCCCT----------CACTTTCTTATGTTTAGTTTCAATATTGTTT	15276
+                    ****************  *          ***************************.***
+
+XM_071089432.1      TCTTTTCTCTGACTAATAAAGGTCTTATTCATTTC-------------------------	834
+DQ977198.1          TCTTTTCTCTGACTAATAAAGGTCTTATXM-PREDICTEDTrachypithecusfranco	15335
+                    ****************************                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          isisexdeterminingregionYSRYmRNATCCAGCCTAGGCGACAGAGCGAAACTCCA	15395
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TCTAAAAACAAAACAAAAACTTGTAAGTATATGTTAATATTCTGATACTTAATGCCTGCG	15455
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AAAAATGTGTATAGAAATTCTATACACATTTACTCTTTAAATAGAAGTGAAGAAAAAGCG	15515
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          ATAATGATTACTATAAATTCAATATGCAGTTATGTATGTATGTGGTTAACACAATTAGGT	15575
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TCTCATTAAGCTTTGTTTTTTAAAGGTAACATGCACATATATTGATAATGATAAACAATT	15635
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          CATATAGCTTTTTCTGTTCTCTCAACTGGCGTAAAAGGTCAGTGAAAAAATTGGTGATTA	15695
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AGTCAAATTTGCATTTTTCAGGAGAGTAGTAGAGCCTTCAGGGCGGCCGATCAGCAGGGC	15755
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AAGTAGTCAATGTTACTGAATTACCGTGTTTTGCTTGAGAATGAATACATTGTCAGGGCA	15815
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          CTAGGGGGTTAGCTGGTTGGGCGGAGTTGAGAGGGGTGTTGGGGGCGGAGAAATGAAAGT	15875
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TTCATTACAAAAGTTAAGGTAACAAAGAATCTGGTAGAAGTAAGTTTTGGATAGTTAATT	15935
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AAGTTTCCAAATCTGACACCTTTCAGTTTTGTCGCACCCTCCTTGTTTTTGACAATGCAA	15995
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TCATATGCTTCTGCTATGTTAAGCGTATTTAACACTGATGATTACAGTCCAGCTGCGCAA	16055
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          CAGAATGTTCCTGCTCTCCGGAGAAGCTCTTCCTTCATTTGCACTGAAAGCTGTAGCTCT	16115
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AAGTATCGGTGTGAAGCAGGAGAAAACAGTAAAGGCAGCGTCCAGGATAGAGTGAAGCGA	16175
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          CCCATGAACGCATTCATTGTGTGGTCTCGCGATCAGAGGCGCAAGATGGCTCTAGAGAAT	16235
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          CCCAAAATGCGAAACTCAGAGATCAGCAAGCAGCTGGGATACCAGTGGAAAACGCTTACC	16295
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          GAAGCCGATAAATGGCCATTCTTCCAGGAGGCACAGAAACTGCAGGCCATGCATAGAGAG	16355
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AAATACCCGAATTATAAGTATCGACCTCGTCGGAAGGCGAAGATGCTGCAAAACAGTTGC	16415
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AGTTTGCTTCCAGCAGATCCTTCTTCGGTACTCTGCAGAGAAATGGAACTGGACAACAGA	16475
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TTGTACAGGGATAACTGTACCAAAGCCACACACTCAAGAATGCAGCTAGGCCACTTACCG	16535
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          CCCATCAACACAGCCAGCTCACCGCAGCAACGGGACCGCTATAGCCACTCGACAAAGATG	16595
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TAGGACAATCGGGTAACACTGGCTACAAAGACCTATGTAGATGCTCGTTTTTACGGTAAC	16655
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TTACAGCCCTCACTTTCTTATGTTAGTTTCAATATTGTTTTCTTTTCTCTGACTAATAAA	16715
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          GGTCTTATXM-PREDICTEDSymphalangussyndactylussexdeterminingreg	16774
+                              *                                                 
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          ionYSRYmRNAAGAAGTGAGTTTTGGATAGTAAAATAAGTTTCGAACTCTGGCACCTTTC	16834
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AATTTTGTCGCATCCTCCTTGTTTTTGACAATGCAATCATATGCTTCTGCTATGTTAAAC	16894
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          GTATTCAACAGTGATTATTACAGTCCAGCTGTGCAACAGAATACTCCCGCTCTCCGGAGA	16954
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AGCTCTTCCTTCATTTGCACTGAAAGCTGTAACTCTAAGTATCCGTGTGAAACGGGAGAA	17014
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AACAGTAAAGTCAGCGTCCAGGATAGAGTGAAGCGACCCATGAACGCGTTCATCGTGTGG	17074
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TCTCGCGATCAGAGGCGCAAGATGGCTCTAGAGAATCCCAAAATGCGAAACTCAGAAATC	17134
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          AGCAAGCAGCTGGGATACCAGTGGAAAATGCTAACTGAAGCCGAAAAATGGCCATTCTTC	17194
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          CAGGAGGCACAGAAACTACAGGCCATGCACAGAGAGAAATACCCGAATTATAAGTATCGA	17254
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          CCTCGTCGGAAGGCGAAGATGCTGCAGAAGAATTGCAGTTTGCTTCCTGCAGATTCCGCT	17314
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TCGGTACTCTACAGCGAAGGGCAACTGGACAACAGGTTGTACAGGGATGACTGTACAAAA	17374
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          GCCACACACTCAAGAATGGAGCACCAGCTAGGCCACTTACCGCCCATCAACACAGCCAGC	17434
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TCACCGCAGCAACAGGACCACTACAGCCACTCGACAAAGCTGTAGGACAATCGGGTAACA	17494
+                                                                                
+
+XM_071089432.1      ------------------------------------------------------------	834
+DQ977198.1          TTGGCTACAAAGACCTACCTAGATGCTCCTTTTTACGATAACTTACAGCCCTCACTTTCT	17554
+                                                                                
+
+XM_071089432.1      -----------------------------------------------------------	834
+DQ977198.1          TATGTTTAGTTTCAATATTGTTTTCTTTTCTCTGGCTAATAAAGGCCTTATTCATTTCA	17613
+                                                                               
