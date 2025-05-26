@@ -1,0 +1,88 @@
+мая-26 21:44:08.379 [main] DEBUG nextflow.cli.Launcher - $> nextflow run mapping_pipeline.nf
+мая-26 21:44:08.458 [main] DEBUG nextflow.cli.CmdRun - N E X T F L O W  ~  version 25.04.2
+мая-26 21:44:08.485 [main] DEBUG nextflow.plugin.PluginsFacade - Setting up plugin manager > mode=prod; embedded=false; plugins-dir=/Users/maryayukhnina/.nextflow/plugins; core-plugins: nf-amazon@2.15.0,nf-azure@1.16.0,nf-cloudcache@0.4.3,nf-codecommit@0.2.3,nf-console@1.2.1,nf-google@1.21.0,nf-k8s@1.0.0,nf-tower@1.11.2,nf-wave@1.12.1
+мая-26 21:44:08.526 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Enabled plugins: []
+мая-26 21:44:08.526 [main] INFO  o.pf4j.DefaultPluginStatusProvider - Disabled plugins: []
+мая-26 21:44:08.529 [main] INFO  org.pf4j.DefaultPluginManager - PF4J version 3.12.0 in 'deployment' mode
+мая-26 21:44:08.540 [main] INFO  org.pf4j.AbstractPluginManager - No plugins
+мая-26 21:44:08.598 [main] DEBUG nextflow.cli.CmdRun - Applied DSL=2 by global default
+мая-26 21:44:08.615 [main] DEBUG nextflow.cli.CmdRun - Launching `mapping_pipeline.nf` [deadly_volta] DSL2 - revision: 55c8ba2e51
+мая-26 21:44:08.616 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins default=[]
+мая-26 21:44:08.617 [main] DEBUG nextflow.plugin.PluginsFacade - Plugins resolved requirement=[]
+мая-26 21:44:08.685 [main] DEBUG nextflow.Session - Session UUID: ab44ce4a-8ebe-4674-aade-317e5fe240ab
+мая-26 21:44:08.685 [main] DEBUG nextflow.Session - Run name: deadly_volta
+мая-26 21:44:08.686 [main] DEBUG nextflow.Session - Executor pool size: 8
+мая-26 21:44:08.694 [main] DEBUG nextflow.file.FilePorter - File porter settings maxRetries=3; maxTransfers=50; pollTimeout=null
+мая-26 21:44:08.699 [main] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'FileTransfer' minSize=10; maxSize=24; workQueue=LinkedBlockingQueue[-1]; allowCoreThreadTimeout=false
+мая-26 21:44:08.726 [main] DEBUG nextflow.cli.CmdRun - 
+  Version: 25.04.2 build 5947
+  Created: 13-05-2025 21:58 UTC (14-05-2025 04:58 GMT+08:00)
+  System: Mac OS X 15.1
+  Runtime: Groovy 4.0.26 on OpenJDK 64-Bit Server VM 23.0.2
+  Encoding: UTF-8 (UTF-8)
+  Process: 53232@MacBook-Air-Marya.local [127.0.0.1]
+  CPUs: 8 - Mem: 8 GB (98 MB) - Swap: 5 GB (774.4 MB)
+мая-26 21:44:08.739 [main] DEBUG nextflow.Session - Work-dir: /Users/maryayukhnina/study/Bioinformatics/work [Mac OS X]
+мая-26 21:44:08.739 [main] DEBUG nextflow.Session - Script base path does not exist or is not a directory: /Users/maryayukhnina/study/Bioinformatics/bin
+мая-26 21:44:08.754 [main] DEBUG nextflow.executor.ExecutorFactory - Extension executors providers=[]
+мая-26 21:44:08.762 [main] DEBUG nextflow.Session - Observer factory: DefaultObserverFactory
+мая-26 21:44:08.766 [main] DEBUG nextflow.Session - Observer factory (v2): LinObserverFactory
+мая-26 21:44:08.789 [main] DEBUG nextflow.cache.CacheFactory - Using Nextflow cache factory: nextflow.cache.DefaultCacheFactory
+мая-26 21:44:08.797 [main] DEBUG nextflow.util.CustomThreadPool - Creating default thread pool > poolSize: 9; maxThreads: 1000
+мая-26 21:44:08.851 [main] DEBUG nextflow.Session - Session start
+мая-26 21:44:09.505 [main] DEBUG nextflow.script.ScriptRunner - > Launching execution
+мая-26 21:44:09.516 [main] DEBUG n.secret.LocalSecretsProvider - Secrets store: /Users/maryayukhnina/.nextflow/secrets/store.json
+мая-26 21:44:09.523 [main] DEBUG nextflow.secret.SecretsLoader - Discovered secrets providers: [nextflow.secret.LocalSecretsProvider@64502326] - activable => nextflow.secret.LocalSecretsProvider@64502326
+мая-26 21:44:09.610 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+мая-26 21:44:09.611 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+мая-26 21:44:09.617 [main] DEBUG nextflow.executor.Executor - [warm up] executor > local
+мая-26 21:44:09.624 [main] DEBUG n.processor.LocalPollingMonitor - Creating local task monitor for executor 'local' > cpus=8; memory=8 GB; capacity=8; pollInterval=100ms; dumpInterval=5m
+мая-26 21:44:09.626 [main] DEBUG n.processor.TaskPollingMonitor - >>> barrier register (monitor: local)
+мая-26 21:44:09.655 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'index_reference': maxForks=0; fair=false; array=0
+мая-26 21:44:09.715 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+мая-26 21:44:09.716 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+мая-26 21:44:09.716 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'align_reads': maxForks=0; fair=false; array=0
+мая-26 21:44:09.720 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+мая-26 21:44:09.720 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+мая-26 21:44:09.720 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'convert_to_bam': maxForks=0; fair=false; array=0
+мая-26 21:44:09.723 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+мая-26 21:44:09.723 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+мая-26 21:44:09.724 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'sort_bam': maxForks=0; fair=false; array=0
+мая-26 21:44:09.726 [main] DEBUG nextflow.executor.ExecutorFactory - << taskConfig executor: null
+мая-26 21:44:09.727 [main] DEBUG nextflow.executor.ExecutorFactory - >> processorType: 'local'
+мая-26 21:44:09.727 [main] DEBUG nextflow.processor.TaskProcessor - Creating process 'generate_stats': maxForks=0; fair=false; array=0
+мая-26 21:44:09.744 [main] DEBUG nextflow.Session - Workflow process names [dsl2]: generate_stats, convert_to_bam, index_reference, align_reads, sort_bam
+мая-26 21:44:09.745 [main] DEBUG nextflow.Session - Igniting dataflow network (5)
+мая-26 21:44:09.746 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > index_reference
+мая-26 21:44:09.746 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > align_reads
+мая-26 21:44:09.746 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > convert_to_bam
+мая-26 21:44:09.746 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > sort_bam
+мая-26 21:44:09.747 [main] DEBUG nextflow.processor.TaskProcessor - Starting process > generate_stats
+мая-26 21:44:09.747 [main] DEBUG nextflow.script.ScriptRunner - Parsed script files:
+  Script_90863e3de423ae1d: /Users/maryayukhnina/study/Bioinformatics/mapping_pipeline.nf
+мая-26 21:44:09.747 [main] DEBUG nextflow.script.ScriptRunner - > Awaiting termination 
+мая-26 21:44:09.747 [main] DEBUG nextflow.Session - Session await
+мая-26 21:44:09.882 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+мая-26 21:44:09.884 [Task submitter] INFO  nextflow.Session - [fc/3c12f9] Submitted process > index_reference
+мая-26 21:44:11.791 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 1; name: index_reference; status: COMPLETED; exit: 0; error: -; workDir: /Users/maryayukhnina/study/Bioinformatics/work/fc/3c12f95dbea4ee8a2481ad896b50d5]
+мая-26 21:44:11.792 [Task monitor] DEBUG nextflow.util.ThreadPoolBuilder - Creating thread pool 'TaskFinalizer' minSize=10; maxSize=24; workQueue=LinkedBlockingQueue[-1]; allowCoreThreadTimeout=false
+мая-26 21:44:11.849 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+мая-26 21:44:11.850 [Task submitter] INFO  nextflow.Session - [3b/473d02] Submitted process > align_reads
+мая-26 21:47:08.353 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 2; name: align_reads; status: COMPLETED; exit: 0; error: -; workDir: /Users/maryayukhnina/study/Bioinformatics/work/3b/473d02bdf525ea6986b2d833ce72b0]
+мая-26 21:47:08.385 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+мая-26 21:47:08.385 [Task submitter] INFO  nextflow.Session - [45/30106a] Submitted process > convert_to_bam
+мая-26 21:47:33.567 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 3; name: convert_to_bam; status: COMPLETED; exit: 0; error: -; workDir: /Users/maryayukhnina/study/Bioinformatics/work/45/30106a8fd4bb19d51c0cb946fc953d]
+мая-26 21:47:33.595 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+мая-26 21:47:33.595 [Task submitter] INFO  nextflow.Session - [ce/8f6fab] Submitted process > sort_bam
+мая-26 21:48:05.102 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 4; name: sort_bam; status: COMPLETED; exit: 0; error: -; workDir: /Users/maryayukhnina/study/Bioinformatics/work/ce/8f6fabf04a0392431bec03670cb9ae]
+мая-26 21:48:05.124 [Task submitter] DEBUG n.executor.local.LocalTaskHandler - Launch cmd line: /bin/bash -ue .command.run
+мая-26 21:48:05.125 [Task submitter] INFO  nextflow.Session - [5f/2fe112] Submitted process > generate_stats
+мая-26 21:48:06.664 [Task monitor] DEBUG n.processor.TaskPollingMonitor - Task completed > TaskHandler[id: 5; name: generate_stats; status: COMPLETED; exit: 0; error: -; workDir: /Users/maryayukhnina/study/Bioinformatics/work/5f/2fe112bfc1f509e2d3deba5e9fff6a]
+мая-26 21:48:06.666 [main] DEBUG nextflow.Session - Session await > all processes finished
+мая-26 21:48:06.770 [Task monitor] DEBUG n.processor.TaskPollingMonitor - <<< barrier arrives (monitor: local) - terminating tasks monitor poll loop
+мая-26 21:48:06.770 [main] DEBUG nextflow.Session - Session await > all barriers passed
+мая-26 21:48:06.778 [main] DEBUG nextflow.util.ThreadPoolManager - Thread pool 'TaskFinalizer' shutdown completed (hard=false)
+мая-26 21:48:06.785 [main] DEBUG n.trace.WorkflowStatsObserver - Workflow completed > WorkflowStats[succeededCount=5; failedCount=0; ignoredCount=0; cachedCount=0; pendingCount=0; submittedCount=0; runningCount=0; retriesCount=0; abortedCount=0; succeedDuration=3m 56s; failedDuration=0ms; cachedDuration=0ms;loadCpus=0; loadMemory=0; peakRunning=1; peakCpus=1; peakMemory=0; ]
+мая-26 21:48:06.909 [main] DEBUG nextflow.cache.CacheDB - Closing CacheDB done
+мая-26 21:48:06.943 [main] DEBUG nextflow.util.ThreadPoolManager - Thread pool 'FileTransfer' shutdown completed (hard=false)
+мая-26 21:48:06.943 [main] DEBUG nextflow.script.ScriptRunner - > Execution complete -- Goodbye
