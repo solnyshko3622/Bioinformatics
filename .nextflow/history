@@ -1,0 +1,9 @@
+2025-05-26 20:52:34	1.1s	silly_brenner	OK	ffbdffc601f6ec68ac563faee84e08df	513d220a-39bf-429a-b90b-8fe13d0545e9	nextflow run hello.nf
+2025-05-26 20:54:03	2.2s	magical_edison	ERR	ee85d84b17ec066322e1a4ad2211c5be	a47a31c3-b132-48e5-b291-0e5083814aae	nextflow run mapping_pipeline.nf
+2025-05-26 21:00:27	1.5s	agitated_gauss	ERR	c6f19389badd5ae3c1da2eb68523d166	13608948-9317-4dfa-bbd6-0d42105bc9ed	nextflow run mapping_pipeline.nf
+2025-05-26 21:01:13	1.4s	confident_liskov	ERR	ee85d84b17ec066322e1a4ad2211c5be	c3f599ee-8fc8-43fd-9a1c-7c9b23212cec	nextflow run mapping_pipeline.nf
+2025-05-26 21:01:39	1.9s	lonely_lagrange	ERR	a5cc29f7fdc5770db8e5e7057b1db251	5463b1d3-44e6-4442-8f33-581a22fbd7af	nextflow run mapping_pipeline.nf
+2025-05-26 21:02:10	3.4s	special_raman	ERR	c87d71546f5451bbdb4e017516155a5f	1fbccedb-3fd6-4837-a3fa-20fffaa2b540	nextflow run mapping_pipeline.nf
+2025-05-26 21:02:41	3m 50s	clever_minsky	OK	55c8ba2e51a9228f7f1c7045c6633e05	7ccad609-5a50-4a40-8a36-27037ee9dd00	nextflow run mapping_pipeline.nf
+2025-05-26 21:07:43	3m 51s	focused_keller	OK	55c8ba2e51a9228f7f1c7045c6633e05	3feb843a-81db-472e-8220-537d90dcb56d	nextflow run mapping_pipeline.nf -with-dag dag.png
+2025-05-26 21:11:54	3m 53s	stupefied_poincare	OK	55c8ba2e51a9228f7f1c7045c6633e05	6bbcfad0-a1d6-4df2-aedd-fdf2ce93b059	nextflow run mapping_pipeline.nf -with-report report.html

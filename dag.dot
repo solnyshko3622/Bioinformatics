@@ -1,0 +1,43 @@
+digraph "dag" {
+rankdir=TB;
+v0 [shape=point,label="",fixedsize=true,width=0.1];
+v1 [label="index_reference"];
+v0 -> v1 [label="reference"];
+
+v1 [label="index_reference"];
+v5 [label="align_reads"];
+v1 -> v5;
+
+v2 [shape=point,label="",fixedsize=true,width=0.1];
+v5 [label="align_reads"];
+v2 -> v5 [label="reads1"];
+
+v3 [shape=point,label="",fixedsize=true,width=0.1];
+v5 [label="align_reads"];
+v3 -> v5 [label="reads2"];
+
+v4 [shape=point,label="",fixedsize=true,width=0.1];
+v5 [label="align_reads"];
+v4 -> v5 [label="reference"];
+
+v5 [label="align_reads"];
+v6 [label="convert_to_bam"];
+v5 -> v6;
+
+v6 [label="convert_to_bam"];
+v7 [label="sort_bam"];
+v6 -> v7;
+
+v7 [label="sort_bam"];
+v8 [label="generate_stats"];
+v7 -> v8;
+
+v8 [label="generate_stats"];
+v9 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="view"];
+v8 -> v9;
+
+v9 [shape=circle,label="",fixedsize=true,width=0.1,xlabel="view"];
+v10 [shape=point];
+v9 -> v10;
+
+}
